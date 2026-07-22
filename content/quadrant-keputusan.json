@@ -1,0 +1,500 @@
+{
+  "source": {
+    "fileId": "1RmnqDfSs9nN7Zfjy6p6mmJXYd2obBXBU",
+    "importedAt": "2026-07-22T21:03:05.631Z",
+    "note": "URL sheet dikelola admin sahaja",
+    "acara": "Quadrant"
+  },
+  "u12": {
+    "category": "u12",
+    "label": "Bawah 12 Tahun",
+    "ranking": [
+      {
+        "kedudukan": "JOHAN",
+        "daerah": "TBA",
+        "mata": "30"
+      },
+      {
+        "kedudukan": "NAIB JOHAN",
+        "daerah": "TBA",
+        "mata": "23"
+      },
+      {
+        "kedudukan": "TEMPAT KE-3",
+        "daerah": "TBA",
+        "mata": "18"
+      },
+      {
+        "kedudukan": "TEMPAT KE-4",
+        "daerah": "TBA",
+        "mata": "15"
+      },
+      {
+        "kedudukan": "SUKU AKHIR",
+        "daerah": "TBA",
+        "mata": "10"
+      },
+      {
+        "kedudukan": "SUKU AKHIR",
+        "daerah": "TBA",
+        "mata": "10"
+      },
+      {
+        "kedudukan": "SUKU AKHIR",
+        "daerah": "TBA",
+        "mata": "10"
+      },
+      {
+        "kedudukan": "SUKU AKHIR",
+        "daerah": "TBA",
+        "mata": "10"
+      },
+      {
+        "kedudukan": "KUMPULAN",
+        "daerah": "TBA",
+        "mata": "5"
+      },
+      {
+        "kedudukan": "KUMPULAN",
+        "daerah": "TBA",
+        "mata": "5"
+      },
+      {
+        "kedudukan": "KUMPULAN",
+        "daerah": "TBA",
+        "mata": "5"
+      },
+      {
+        "kedudukan": "KUMPULAN",
+        "daerah": "TBA",
+        "mata": "5"
+      }
+    ],
+    "matches": [
+      {
+        "bil": 1,
+        "kumpulan": "A",
+        "reguA": "KINTA SELATAN",
+        "reguB": "BATANG PADANG",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 2,
+        "kumpulan": "B",
+        "reguA": "BAGAN DATUK",
+        "reguB": "PERAK TENGAH",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 3,
+        "kumpulan": "C",
+        "reguA": "KINTA UTARA",
+        "reguB": "MUALLIM",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 4,
+        "kumpulan": "D",
+        "reguA": "KUALA KANGSAR",
+        "reguB": "HILIR PERAK",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 5,
+        "kumpulan": "A",
+        "reguA": "KERIAN",
+        "reguB": "KINTA SELATAN",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 6,
+        "kumpulan": "B",
+        "reguA": "HULU PERAK",
+        "reguB": "BAGAN DATUK",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 7,
+        "kumpulan": "C",
+        "reguA": "LARUT MATANG SELAMA",
+        "reguB": "KINTA UTARA",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 8,
+        "kumpulan": "D",
+        "reguA": "MANJUNG",
+        "reguB": "KUALA KANGSAR",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 9,
+        "kumpulan": "A",
+        "reguA": "BATANG PADANG",
+        "reguB": "KERIAN",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 10,
+        "kumpulan": "B",
+        "reguA": "PERAK TENGAH",
+        "reguB": "HULU PERAK",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 11,
+        "kumpulan": "C",
+        "reguA": "MUALLIM",
+        "reguB": "LARUT MATANG SELAMA",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 12,
+        "kumpulan": "D",
+        "reguA": "HILIR PERAK",
+        "reguB": "MANJUNG",
+        "pemenang": "",
+        "skor": ""
+      }
+    ]
+  },
+  "u15": {
+    "category": "u15",
+    "label": "Bawah 15 Tahun",
+    "ranking": [
+      {
+        "kedudukan": "JOHAN",
+        "daerah": "TBA",
+        "mata": "30"
+      },
+      {
+        "kedudukan": "NAIB JOHAN",
+        "daerah": "TBA",
+        "mata": "23"
+      },
+      {
+        "kedudukan": "TEMPAT KE-3",
+        "daerah": "TBA",
+        "mata": "18"
+      },
+      {
+        "kedudukan": "TEMPAT KE-4",
+        "daerah": "TBA",
+        "mata": "15"
+      },
+      {
+        "kedudukan": "SUKU AKHIR",
+        "daerah": "TBA",
+        "mata": "10"
+      },
+      {
+        "kedudukan": "SUKU AKHIR",
+        "daerah": "TBA",
+        "mata": "10"
+      },
+      {
+        "kedudukan": "SUKU AKHIR",
+        "daerah": "TBA",
+        "mata": "10"
+      },
+      {
+        "kedudukan": "SUKU AKHIR",
+        "daerah": "TBA",
+        "mata": "10"
+      },
+      {
+        "kedudukan": "KUMPULAN",
+        "daerah": "TBA",
+        "mata": "5"
+      },
+      {
+        "kedudukan": "KUMPULAN",
+        "daerah": "TBA",
+        "mata": "5"
+      },
+      {
+        "kedudukan": "KUMPULAN",
+        "daerah": "TBA",
+        "mata": "5"
+      },
+      {
+        "kedudukan": "KUMPULAN",
+        "daerah": "TBA",
+        "mata": "5"
+      }
+    ],
+    "matches": [
+      {
+        "bil": 1,
+        "kumpulan": "A",
+        "reguA": "BATANG PADANG",
+        "reguB": "KINTA SELATAN",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 2,
+        "kumpulan": "B",
+        "reguA": "HILIR PERAK",
+        "reguB": "KINTA UTARA",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 3,
+        "kumpulan": "C",
+        "reguA": "MUALLIM",
+        "reguB": "KUALA KANGSAR",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 4,
+        "kumpulan": "D",
+        "reguA": "PERAK TENGAH",
+        "reguB": "LARUT MATANG SELAMA",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 5,
+        "kumpulan": "A",
+        "reguA": "BAGAN DATUK",
+        "reguB": "BATANG PADANG",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 6,
+        "kumpulan": "B",
+        "reguA": "MANJUNG",
+        "reguB": "HILIR PERAK",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 7,
+        "kumpulan": "C",
+        "reguA": "KERIAN",
+        "reguB": "MUALLIM",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 8,
+        "kumpulan": "D",
+        "reguA": "HULU PERAK",
+        "reguB": "PERAK TENGAH",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 9,
+        "kumpulan": "A",
+        "reguA": "KINTA SELATAN",
+        "reguB": "BAGAN DATUK",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 10,
+        "kumpulan": "B",
+        "reguA": "KINTA UTARA",
+        "reguB": "MANJUNG",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 11,
+        "kumpulan": "C",
+        "reguA": "KUALA KANGSAR",
+        "reguB": "KERIAN",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 12,
+        "kumpulan": "D",
+        "reguA": "LARUT MATANG SELAMA",
+        "reguB": "HULU PERAK",
+        "pemenang": "",
+        "skor": ""
+      }
+    ]
+  },
+  "u18": {
+    "category": "u18",
+    "label": "Bawah 18 Tahun",
+    "ranking": [
+      {
+        "kedudukan": "JOHAN",
+        "daerah": "TBA",
+        "mata": "30"
+      },
+      {
+        "kedudukan": "NAIB JOHAN",
+        "daerah": "TBA",
+        "mata": "23"
+      },
+      {
+        "kedudukan": "TEMPAT KE-3",
+        "daerah": "TBA",
+        "mata": "18"
+      },
+      {
+        "kedudukan": "TEMPAT KE-4",
+        "daerah": "TBA",
+        "mata": "15"
+      },
+      {
+        "kedudukan": "SUKU AKHIR",
+        "daerah": "TBA",
+        "mata": "10"
+      },
+      {
+        "kedudukan": "SUKU AKHIR",
+        "daerah": "TBA",
+        "mata": "10"
+      },
+      {
+        "kedudukan": "SUKU AKHIR",
+        "daerah": "TBA",
+        "mata": "10"
+      },
+      {
+        "kedudukan": "SUKU AKHIR",
+        "daerah": "TBA",
+        "mata": "10"
+      },
+      {
+        "kedudukan": "KUMPULAN",
+        "daerah": "TBA",
+        "mata": "5"
+      },
+      {
+        "kedudukan": "KUMPULAN",
+        "daerah": "TBA",
+        "mata": "5"
+      },
+      {
+        "kedudukan": "KUMPULAN",
+        "daerah": "TBA",
+        "mata": "5"
+      },
+      {
+        "kedudukan": "KUMPULAN",
+        "daerah": "TBA",
+        "mata": "5"
+      }
+    ],
+    "matches": [
+      {
+        "bil": 1,
+        "kumpulan": "A",
+        "reguA": "BAGAN DATUK",
+        "reguB": "BATANG PADANG",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 2,
+        "kumpulan": "B",
+        "reguA": "LARUT MATANG SELAMA",
+        "reguB": "MUALLIM",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 3,
+        "kumpulan": "C",
+        "reguA": "MANJUNG",
+        "reguB": "HILIR PERAK",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 4,
+        "kumpulan": "D",
+        "reguA": "KUALA KANGSAR",
+        "reguB": "HULU PERAK",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 5,
+        "kumpulan": "A",
+        "reguA": "KERIAN",
+        "reguB": "BAGAN DATUK",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 6,
+        "kumpulan": "B",
+        "reguA": "PERAK TENGAH",
+        "reguB": "LARUT MATANG SELAMA",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 7,
+        "kumpulan": "C",
+        "reguA": "KINTA SELATAN",
+        "reguB": "MANJUNG",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 8,
+        "kumpulan": "D",
+        "reguA": "KINTA UTARA",
+        "reguB": "KUALA KANGSAR",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 9,
+        "kumpulan": "A",
+        "reguA": "BATANG PADANG",
+        "reguB": "KERIAN",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 10,
+        "kumpulan": "B",
+        "reguA": "MUALLIM",
+        "reguB": "PERAK TENGAH",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 11,
+        "kumpulan": "C",
+        "reguA": "HILIR PERAK",
+        "reguB": "KINTA SELATAN",
+        "pemenang": "",
+        "skor": ""
+      },
+      {
+        "bil": 12,
+        "kumpulan": "D",
+        "reguA": "HULU PERAK",
+        "reguB": "KINTA UTARA",
+        "pemenang": "",
+        "skor": ""
+      }
+    ]
+  }
+}

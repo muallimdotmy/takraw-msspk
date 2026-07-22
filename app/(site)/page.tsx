@@ -4,7 +4,9 @@ import { EventBanner } from "@/components/EventBanner";
 import { GalleryGrid } from "@/components/GalleryGrid";
 import { Hero } from "@/components/Hero";
 import { ProgramPlaceholder } from "@/components/ProgramPlaceholder";
-import { ResultsPlaceholder } from "@/components/ResultsPlaceholder";
+import { QuadrantResults } from "@/components/QuadrantResults";
+import { QuadrantSchedule } from "@/components/QuadrantSchedule";
+import { ResultsPanel } from "@/components/ResultsPanel";
 import { Section } from "@/components/Section";
 import { Stats } from "@/components/Stats";
 import { getSite } from "@/lib/get-site";
@@ -21,30 +23,41 @@ export default function Home() {
       <Stats site={site} />
 
       <Section
+        id="jadual-quadrant"
+        eyebrow="Quadrant · 24 Julai"
+        title="Jadual Quadrant"
+        description="Acara Quadrant — Jumaat 24 Julai 2026, STAR Wellness Hub UPSI."
+      >
+        <QuadrantSchedule />
+      </Section>
+
+      <Section
+        id="keputusan-quadrant"
+        eyebrow="Quadrant · Keputusan"
+        title="Keputusan Quadrant"
+        description="Kedudukan & keputusan perlawanan acara Quadrant."
+        className="bg-surface/40"
+      >
+        <QuadrantResults />
+      </Section>
+
+      <Section
         id="jadual"
-        eyebrow="Jadual"
-        title="Jadual Perlawanan"
-        description="Pilih kategori umur. Kini papar data placeholder — sambung Google Sheets di panel Admin bila sedia."
+        eyebrow="Regu Berpasukan · 25–26 Julai"
+        title="Jadual Regu Berpasukan"
+        description="Jadual rasmi Regu Berpasukan MSS Perak 2026 mengikut kategori umur."
       >
         <CategoryTabs site={site} />
       </Section>
 
       <Section
         id="keputusan"
-        eyebrow="Keputusan"
-        title="Keputusan Kejohanan"
-        description="Jadual pungutan pingat & juara kategori (data contoh). Akan diganti embed Sheets/Docs sebenar."
+        eyebrow="Regu Berpasukan · Keputusan"
+        title="Keputusan Regu Berpasukan"
+        description="Kedudukan & keputusan perlawanan regu berpasukan mengikut kategori."
         className="bg-surface/40"
       >
-        {site.embeds.keputusan ? (
-          <EmbedFrame
-            src={site.embeds.keputusan}
-            title="Keputusan kejohanan"
-            variant="tall"
-          />
-        ) : (
-          <ResultsPlaceholder />
-        )}
+        <ResultsPanel />
       </Section>
 
       <Section
@@ -136,30 +149,6 @@ export default function Home() {
           fallbackLabel="Buka di YouTube"
         />
       </Section>
-
-      <section className="pb-16 pt-4">
-        <div className="mx-auto max-w-6xl px-4 sm:px-6">
-          <div className="rounded-2xl border border-accent/25 bg-gradient-to-br from-primary-dark/40 to-card p-6 sm:p-8">
-            <h2 className="section-title text-xl font-extrabold text-foreground sm:text-2xl">
-              Kemas kini kandungan
-            </h2>
-            <p className="mt-2 max-w-2xl text-sm text-muted">
-              Semua URL dan teks event boleh diubah di panel{" "}
-              <a
-                href="/admin"
-                className="font-semibold text-accent hover:underline"
-              >
-                Admin
-              </a>{" "}
-              (
-              <code className="code-inline">/admin</code>
-              ). Disimpan ke{" "}
-              <code className="code-inline">content/site-config.json</code>
-              .
-            </p>
-          </div>
-        </div>
-      </section>
     </>
   );
 }

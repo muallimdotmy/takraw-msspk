@@ -6,6 +6,7 @@ import type { SiteConfig } from "@/lib/types";
 const STORAGE_KEY = "msspk_admin_password";
 
 type TabId =
+  | "sumber"
   | "event"
   | "embeds"
   | "links"
@@ -14,7 +15,27 @@ type TabId =
   | "footer"
   | "nav";
 
+type SheetSourceState = {
+  sheetUrl: string;
+  fileId: string;
+  label: string;
+};
+
+type AdminSourcesState = {
+  berpasukan: SheetSourceState;
+  quadrant: SheetSourceState;
+  purpose: string;
+  updatedAt: string;
+};
+
+const emptySheet = (label: string): SheetSourceState => ({
+  sheetUrl: "",
+  fileId: "",
+  label,
+});
+
 const TABS: { id: TabId; label: string }[] = [
+  { id: "sumber", label: "Sumber data" },
   { id: "event", label: "Event" },
   { id: "embeds", label: "Embeds" },
   { id: "links", label: "Pautan" },
@@ -52,13 +73,59 @@ export function AdminPanel() {
   const [authed, setAuthed] = useState(false);
   const [loginError, setLoginError] = useState("");
   const [config, setConfig] = useState<SiteConfig | null>(null);
-  const [tab, setTab] = useState<TabId>("event");
+  const [sources, setSources] = useState<AdminSourcesState>({
+    berpasukan: emptySheet("Regu Berpasukan — jadual & keputusan"),
+    quadrant: emptySheet("Quadrant — jadual & keputusan"),
+    purpose: "",
+    updatedAt: "",
+  });
+  const [tab, setTab] = useState<TabId>("sumber");
   const [status, setStatus] = useState<{
     type: "ok" | "err" | "warn";
     text: string;
   } | null>(null);
   const [saving, setSaving] = useState(false);
   const [loading, setLoading] = useState(false);
+
+  function normalizeSources(raw: Record<string, unknown> | null | undefined): AdminSourcesState {
+    if (!raw) {
+      return {
+        berpasukan: emptySheet("Regu Berpasukan — jadual & keputusan"),
+        quadrant: emptySheet("Quadrant — jadual & keputusan"),
+        purpose: "",
+        updatedAt: "",
+      };
+    }
+    // Support legacy single-sheet shape
+    if (!raw.berpasukan && typeof raw.sheetUrl === "string") {
+      return {
+        berpasukan: {
+          sheetUrl: raw.sheetUrl,
+          fileId: String(raw.fileId || ""),
+          label: "Regu Berpasukan — jadual & keputusan",
+        },
+        quadrant: emptySheet("Quadrant — jadual & keputusan"),
+        purpose: String(raw.purpose || ""),
+        updatedAt: String(raw.updatedAt || ""),
+      };
+    }
+    const b = (raw.berpasukan || {}) as SheetSourceState;
+    const q = (raw.quadrant || {}) as SheetSourceState;
+    return {
+      berpasukan: {
+        sheetUrl: b.sheetUrl || "",
+        fileId: b.fileId || "",
+        label: b.label || "Regu Berpasukan — jadual & keputusan",
+      },
+      quadrant: {
+        sheetUrl: q.sheetUrl || "",
+        fileId: q.fileId || "",
+        label: q.label || "Quadrant — jadual & keputusan",
+      },
+      purpose: String(raw.purpose || ""),
+      updatedAt: String(raw.updatedAt || ""),
+    };
+  }
 
   const loadConfig = useCallback(async (pwd: string) => {
     setLoading(true);
@@ -72,6 +139,7 @@ export function AdminPanel() {
         throw new Error(data.error || "Gagal muat config");
       }
       setConfig(data.config as SiteConfig);
+      setSources(normalizeSources(data.sources));
       setAuthed(true);
       sessionStorage.setItem(STORAGE_KEY, pwd);
     } catch (e) {
@@ -128,7 +196,7 @@ export function AdminPanel() {
           "Content-Type": "application/json",
           "x-admin-password": pwd,
         },
-        body: JSON.stringify({ config }),
+        body: JSON.stringify({ config, sources }),
       });
       const data = await res.json();
       if (!res.ok || !data.ok) {
@@ -137,6 +205,7 @@ export function AdminPanel() {
       if (data.saved) {
         setStatus({ type: "ok", text: data.message || "Berjaya disimpan." });
         if (data.config) setConfig(data.config);
+        if (data.sources) setSources(normalizeSources(data.sources));
       } else if (data.download) {
         setStatus({
           type: "warn",
@@ -291,6 +360,78 @@ export function AdminPanel() {
       </div>
 
       <div className="space-y-4 rounded-2xl border border-card-border bg-card p-4 sm:p-6">
+        {tab === "sumber" && (
+          <div className="grid gap-6">
+            <div className="rounded-xl border border-accent/30 bg-accent/10 px-4 py-3 text-sm text-muted">
+              Pautan Google Sheet{" "}
+              <strong className="text-foreground">
+                tidak dipaparkan di laman awam
+              </strong>
+              . Hanya data yang diimport ke site. Dua sumber:{" "}
+              <strong className="text-foreground">Regu Berpasukan</strong> &{" "}
+              <strong className="text-foreground">Quadrant</strong>.
+            </div>
+
+            {(
+              [
+                ["berpasukan", "Regu Berpasukan (25–26 Julai)"],
+                ["quadrant", "Quadrant (24 Julai)"],
+              ] as const
+            ).map(([key, title]) => (
+              <div
+                key={key}
+                className="space-y-3 rounded-xl border border-card-border bg-surface/40 p-4"
+              >
+                <p className="text-sm font-bold text-foreground">{title}</p>
+                <Field
+                  label="URL Google Sheet"
+                  hint="Tidak dipaparkan di laman awam"
+                >
+                  <input
+                    className={inputClass}
+                    value={sources[key].sheetUrl}
+                    onChange={(e) =>
+                      setSources({
+                        ...sources,
+                        [key]: { ...sources[key], sheetUrl: e.target.value },
+                      })
+                    }
+                    placeholder="https://docs.google.com/spreadsheets/d/..."
+                  />
+                </Field>
+                <Field label="File ID">
+                  <input
+                    className={inputClass}
+                    value={sources[key].fileId}
+                    onChange={(e) =>
+                      setSources({
+                        ...sources,
+                        [key]: { ...sources[key], fileId: e.target.value },
+                      })
+                    }
+                  />
+                </Field>
+                {sources[key].sheetUrl ? (
+                  <a
+                    href={sources[key].sheetUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex w-fit text-sm font-semibold text-accent hover:text-accent-soft"
+                  >
+                    Buka sheet {title.split(" ")[0]} →
+                  </a>
+                ) : null}
+              </div>
+            ))}
+
+            {sources.updatedAt ? (
+              <p className="text-xs text-muted">
+                Dikemas kini: {sources.updatedAt}
+              </p>
+            ) : null}
+          </div>
+        )}
+
         {tab === "event" && (
           <div className="grid gap-4 sm:grid-cols-2">
             <Field label="Nama penuh">
@@ -396,61 +537,17 @@ export function AdminPanel() {
                 }
               />
             </Field>
-            <Field label="Jadual U12 (Sheets pubhtml)" hint="Kosong = placeholder">
+            <p className="text-sm text-muted">
+              Jadual & keputusan diimport ke{" "}
+              <code className="text-accent">content/jadual.json</code> /{" "}
+              <code className="text-accent">content/keputusan.json</code>.
+              Pautan sheet ada di tab <strong>Sumber data</strong> (admin sahaja).
+            </p>
+            <Field label="YouTube embed sudah di atas — medan jadual awam dikosongkan">
               <input
                 className={inputClass}
-                value={config.embeds.jadual.u12}
-                onChange={(e) =>
-                  setConfig({
-                    ...config,
-                    embeds: {
-                      ...config.embeds,
-                      jadual: { ...config.embeds.jadual, u12: e.target.value },
-                    },
-                  })
-                }
-              />
-            </Field>
-            <Field label="Jadual U15">
-              <input
-                className={inputClass}
-                value={config.embeds.jadual.u15}
-                onChange={(e) =>
-                  setConfig({
-                    ...config,
-                    embeds: {
-                      ...config.embeds,
-                      jadual: { ...config.embeds.jadual, u15: e.target.value },
-                    },
-                  })
-                }
-              />
-            </Field>
-            <Field label="Jadual U18">
-              <input
-                className={inputClass}
-                value={config.embeds.jadual.u18}
-                onChange={(e) =>
-                  setConfig({
-                    ...config,
-                    embeds: {
-                      ...config.embeds,
-                      jadual: { ...config.embeds.jadual, u18: e.target.value },
-                    },
-                  })
-                }
-              />
-            </Field>
-            <Field label="Keputusan (Sheets/Docs)">
-              <input
-                className={inputClass}
-                value={config.embeds.keputusan}
-                onChange={(e) =>
-                  setConfig({
-                    ...config,
-                    embeds: { ...config.embeds, keputusan: e.target.value },
-                  })
-                }
+                value="(dikawal tab Sumber data)"
+                disabled
               />
             </Field>
             <Field
@@ -497,7 +594,7 @@ export function AdminPanel() {
               <Field key={key} label={label}>
                 <input
                   className={inputClass}
-                  value={config.links[key]}
+                  value={config.links[key] || ""}
                   onChange={(e) =>
                     setConfig({
                       ...config,

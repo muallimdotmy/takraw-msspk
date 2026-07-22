@@ -1,0 +1,997 @@
+{
+  "source": {
+    "fileId": "1jq9o67Yu-Z6dfTsHFveNJ41pwwooot0B",
+    "importedAt": "2026-07-22T20:51:39.161Z",
+    "note": "URL sheet dikelola admin sahaja (content/admin-sources.json)"
+  },
+  "u12": {
+    "category": "u12",
+    "sheet": "JADUAL BERPASUKAN B12",
+    "meta": {
+      "tarikh": "25 & 26 JULAI 2026",
+      "hari": "SABTU & AHAD",
+      "masaNote": "SABTU 8.00 PAGI HINGGA 9.00 MLM · AHAD 8.00 PAGI HINGGA 10.00 PAGI",
+      "tempat": "STAR WELLNESS HUB, UPSI (GIMNASIUM UPSI) TANJUNG MALIM"
+    },
+    "groups": {
+      "A": [
+        {
+          "code": "A1",
+          "team": "KINTA UTARA"
+        },
+        {
+          "code": "A2",
+          "team": "BAGAN DATUK"
+        },
+        {
+          "code": "A3",
+          "team": "KERIAN"
+        }
+      ],
+      "B": [
+        {
+          "code": "B1",
+          "team": "KUALA KANGSAR"
+        },
+        {
+          "code": "B2",
+          "team": "BATANG PADANG"
+        },
+        {
+          "code": "B3",
+          "team": "PERAK TENGAH"
+        }
+      ],
+      "C": [
+        {
+          "code": "C1",
+          "team": "MUALLIM"
+        },
+        {
+          "code": "C2",
+          "team": "MANJUNG"
+        },
+        {
+          "code": "C3",
+          "team": "HULU PERAK"
+        }
+      ],
+      "D": [
+        {
+          "code": "D1",
+          "team": "HILIR PERAK"
+        },
+        {
+          "code": "D2",
+          "team": "LARUT MATANG SELAMA"
+        },
+        {
+          "code": "D3",
+          "team": "KINTA SELATAN"
+        }
+      ]
+    },
+    "matches": [
+      {
+        "bil": 1,
+        "tarikh": "SABTU",
+        "masa": "08:00",
+        "codeA": "A1",
+        "reguA": "KINTA UTARA",
+        "codeB": "A3",
+        "reguB": "KERIAN",
+        "pusingan": "Kumpulan A",
+        "kumpulan": "A",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 2,
+        "tarikh": "SABTU",
+        "masa": "08:00",
+        "codeA": "B1",
+        "reguA": "KUALA KANGSAR",
+        "codeB": "B3",
+        "reguB": "PERAK TENGAH",
+        "pusingan": "Kumpulan B",
+        "kumpulan": "B",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 3,
+        "tarikh": "SABTU",
+        "masa": "09:00",
+        "codeA": "C1",
+        "reguA": "MUALLIM",
+        "codeB": "C3",
+        "reguB": "HULU PERAK",
+        "pusingan": "Kumpulan C",
+        "kumpulan": "C",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 4,
+        "tarikh": "SABTU",
+        "masa": "09:00",
+        "codeA": "D1",
+        "reguA": "HILIR PERAK",
+        "codeB": "D3",
+        "reguB": "KINTA SELATAN",
+        "pusingan": "Kumpulan D",
+        "kumpulan": "D",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 5,
+        "tarikh": "SABTU",
+        "masa": "10:00",
+        "codeA": "A2",
+        "reguA": "BAGAN DATUK",
+        "codeB": "A1",
+        "reguB": "KINTA UTARA",
+        "pusingan": "Kumpulan A",
+        "kumpulan": "A",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 6,
+        "tarikh": "SABTU",
+        "masa": "10:00",
+        "codeA": "B2",
+        "reguA": "BATANG PADANG",
+        "codeB": "B1",
+        "reguB": "KUALA KANGSAR",
+        "pusingan": "Kumpulan B",
+        "kumpulan": "B",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 7,
+        "tarikh": "SABTU",
+        "masa": "11:00",
+        "codeA": "C2",
+        "reguA": "MANJUNG",
+        "codeB": "C1",
+        "reguB": "MUALLIM",
+        "pusingan": "Kumpulan C",
+        "kumpulan": "C",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 8,
+        "tarikh": "SABTU",
+        "masa": "11:00",
+        "codeA": "D2",
+        "reguA": "LARUT MATANG SELAMA",
+        "codeB": "D1",
+        "reguB": "HILIR PERAK",
+        "pusingan": "Kumpulan D",
+        "kumpulan": "D",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 9,
+        "tarikh": "SABTU",
+        "masa": "12:00",
+        "codeA": "A3",
+        "reguA": "KERIAN",
+        "codeB": "A2",
+        "reguB": "BAGAN DATUK",
+        "pusingan": "Kumpulan A",
+        "kumpulan": "A",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 10,
+        "tarikh": "25 JULAI 2026",
+        "masa": "12:00",
+        "codeA": "B3",
+        "reguA": "PERAK TENGAH",
+        "codeB": "B2",
+        "reguB": "BATANG PADANG",
+        "pusingan": "Kumpulan B",
+        "kumpulan": "B",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 11,
+        "tarikh": "25 JULAI 2026",
+        "masa": "13:00",
+        "codeA": "C3",
+        "reguA": "HULU PERAK",
+        "codeB": "C2",
+        "reguB": "MANJUNG",
+        "pusingan": "Kumpulan C",
+        "kumpulan": "C",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 12,
+        "tarikh": "25 JULAI 2026",
+        "masa": "13:00",
+        "codeA": "D3",
+        "reguA": "KINTA SELATAN",
+        "codeB": "D2",
+        "reguB": "LARUT MATANG SELAMA",
+        "pusingan": "Kumpulan D",
+        "kumpulan": "D",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 13,
+        "tarikh": "25 JULAI 2026",
+        "masa": "15:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SUKU AKHIR 1",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 14,
+        "tarikh": "25 JULAI 2026",
+        "masa": "15:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SUKU AKHIR 2",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 15,
+        "tarikh": "25 JULAI 2026",
+        "masa": "17:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SUKU AKHIR 3",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 16,
+        "tarikh": "25 JULAI 2026",
+        "masa": "17:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SUKU AKHIR 4",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 17,
+        "tarikh": "25 JULAI 2026",
+        "masa": "20:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SEPARUH AKHIR 1",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 18,
+        "tarikh": "25 JULAI 2026",
+        "masa": "20:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SEPARUH AKHIR 2",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 19,
+        "tarikh": "AHAD",
+        "masa": "08:30",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "TEMPAT KE-3 & 4",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 20,
+        "tarikh": "AHAD",
+        "masa": "09:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "AKHIR",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      }
+    ]
+  },
+  "u15": {
+    "category": "u15",
+    "sheet": "JADUAL BERPASUKAN B15",
+    "meta": {
+      "tarikh": "25 & 26 JULAI 2026",
+      "hari": "SABTU & AHAD",
+      "masaNote": "SABTU 8.00 PAGI HINGGA 9.00 MLM · AHAD 8.00 PAGI HINGGA 10.00 PAGI",
+      "tempat": "STAR WELLNESS HUB, UPSI (GIMNASIUM UPSI) TANJUNG MALIM"
+    },
+    "groups": {
+      "A": [
+        {
+          "code": "A1",
+          "team": "KINTA SELATAN"
+        },
+        {
+          "code": "A2",
+          "team": "KUALA KANGSAR"
+        },
+        {
+          "code": "A3",
+          "team": "PERAK TENGAH"
+        }
+      ],
+      "B": [
+        {
+          "code": "B1",
+          "team": "KERIAN"
+        },
+        {
+          "code": "B2",
+          "team": "HILIR PERAK"
+        },
+        {
+          "code": "B3",
+          "team": "MANJUNG"
+        }
+      ],
+      "C": [
+        {
+          "code": "C1",
+          "team": "LARUT MATANG SELAMA"
+        },
+        {
+          "code": "C2",
+          "team": "MUALLIM"
+        },
+        {
+          "code": "C3",
+          "team": "BAGAN DATUK"
+        }
+      ],
+      "D": [
+        {
+          "code": "D1",
+          "team": "HULU PERAK"
+        },
+        {
+          "code": "D2",
+          "team": "BATANG PADANG"
+        },
+        {
+          "code": "D3",
+          "team": "KINTA UTARA"
+        }
+      ]
+    },
+    "matches": [
+      {
+        "bil": 1,
+        "tarikh": "SABTU",
+        "masa": "08:00",
+        "codeA": "A1",
+        "reguA": "KINTA SELATAN",
+        "codeB": "A3",
+        "reguB": "PERAK TENGAH",
+        "pusingan": "Kumpulan A",
+        "kumpulan": "A",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 2,
+        "tarikh": "SABTU",
+        "masa": "08:00",
+        "codeA": "B1",
+        "reguA": "KERIAN",
+        "codeB": "B3",
+        "reguB": "MANJUNG",
+        "pusingan": "Kumpulan B",
+        "kumpulan": "B",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 3,
+        "tarikh": "SABTU",
+        "masa": "09:00",
+        "codeA": "C1",
+        "reguA": "LARUT MATANG SELAMA",
+        "codeB": "C3",
+        "reguB": "BAGAN DATUK",
+        "pusingan": "Kumpulan C",
+        "kumpulan": "C",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 4,
+        "tarikh": "SABTU",
+        "masa": "09:00",
+        "codeA": "D1",
+        "reguA": "HULU PERAK",
+        "codeB": "D3",
+        "reguB": "KINTA UTARA",
+        "pusingan": "Kumpulan D",
+        "kumpulan": "D",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 5,
+        "tarikh": "SABTU",
+        "masa": "10:00",
+        "codeA": "A2",
+        "reguA": "KUALA KANGSAR",
+        "codeB": "A1",
+        "reguB": "KINTA SELATAN",
+        "pusingan": "Kumpulan A",
+        "kumpulan": "A",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 6,
+        "tarikh": "SABTU",
+        "masa": "10:00",
+        "codeA": "B2",
+        "reguA": "HILIR PERAK",
+        "codeB": "B1",
+        "reguB": "KERIAN",
+        "pusingan": "Kumpulan B",
+        "kumpulan": "B",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 7,
+        "tarikh": "SABTU",
+        "masa": "11:00",
+        "codeA": "C2",
+        "reguA": "MUALLIM",
+        "codeB": "C1",
+        "reguB": "LARUT MATANG SELAMA",
+        "pusingan": "Kumpulan C",
+        "kumpulan": "C",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 8,
+        "tarikh": "SABTU",
+        "masa": "11:00",
+        "codeA": "D2",
+        "reguA": "BATANG PADANG",
+        "codeB": "D1",
+        "reguB": "HULU PERAK",
+        "pusingan": "Kumpulan D",
+        "kumpulan": "D",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 9,
+        "tarikh": "SABTU",
+        "masa": "12:00",
+        "codeA": "A3",
+        "reguA": "PERAK TENGAH",
+        "codeB": "A2",
+        "reguB": "KUALA KANGSAR",
+        "pusingan": "Kumpulan A",
+        "kumpulan": "A",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 10,
+        "tarikh": "25 JULAI 2026",
+        "masa": "12:00",
+        "codeA": "B3",
+        "reguA": "MANJUNG",
+        "codeB": "B2",
+        "reguB": "HILIR PERAK",
+        "pusingan": "Kumpulan B",
+        "kumpulan": "B",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 11,
+        "tarikh": "25 JULAI 2026",
+        "masa": "13:00",
+        "codeA": "C3",
+        "reguA": "BAGAN DATUK",
+        "codeB": "C2",
+        "reguB": "MUALLIM",
+        "pusingan": "Kumpulan C",
+        "kumpulan": "C",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 12,
+        "tarikh": "25 JULAI 2026",
+        "masa": "13:00",
+        "codeA": "D3",
+        "reguA": "KINTA UTARA",
+        "codeB": "D2",
+        "reguB": "BATANG PADANG",
+        "pusingan": "Kumpulan D",
+        "kumpulan": "D",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 13,
+        "tarikh": "25 JULAI 2026",
+        "masa": "15:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SUKU AKHIR 1",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 14,
+        "tarikh": "25 JULAI 2026",
+        "masa": "15:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SUKU AKHIR 2",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 15,
+        "tarikh": "25 JULAI 2026",
+        "masa": "17:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SUKU AKHIR 3",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 16,
+        "tarikh": "25 JULAI 2026",
+        "masa": "17:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SUKU AKHIR 4",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 17,
+        "tarikh": "25 JULAI 2026",
+        "masa": "20:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SEPARUH AKHIR 1",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 18,
+        "tarikh": "25 JULAI 2026",
+        "masa": "20:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SEPARUH AKHIR 2",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 19,
+        "tarikh": "AHAD",
+        "masa": "08:30",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "TEMPAT KE-3 & 4",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 20,
+        "tarikh": "AHAD",
+        "masa": "09:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "AKHIR",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      }
+    ]
+  },
+  "u18": {
+    "category": "u18",
+    "sheet": "JADUAL BERPASUKAN B18",
+    "meta": {
+      "tarikh": "25 & 26 JULAI 2026",
+      "hari": "SABTU & AHAD",
+      "masaNote": "SABTU 8.00 PAGI HINGGA 9.00 MLM · AHAD 8.00 PAGI HINGGA 10.00 PAGI",
+      "tempat": "STAR WELLNESS HUB, UPSI (GIMNASIUM UPSI) TANJUNG MALIM"
+    },
+    "groups": {
+      "A": [
+        {
+          "code": "A1",
+          "team": "KUALA KANGSAR"
+        },
+        {
+          "code": "A2",
+          "team": "MANJUNG"
+        },
+        {
+          "code": "A3",
+          "team": "MUALLIM"
+        }
+      ],
+      "B": [
+        {
+          "code": "B1",
+          "team": "KINTA UTARA"
+        },
+        {
+          "code": "B2",
+          "team": "PERAK TENGAH"
+        },
+        {
+          "code": "B3",
+          "team": "KERIAN"
+        }
+      ],
+      "C": [
+        {
+          "code": "C1",
+          "team": "LARUT MATANG SELAMA"
+        },
+        {
+          "code": "C2",
+          "team": "HULU PERAK"
+        },
+        {
+          "code": "C3",
+          "team": "BAGAN DATUK"
+        }
+      ],
+      "D": [
+        {
+          "code": "D1",
+          "team": "KINTA SELATAN"
+        },
+        {
+          "code": "D2",
+          "team": "HILIR PERAK"
+        },
+        {
+          "code": "D3",
+          "team": "BATANG PADANG"
+        }
+      ]
+    },
+    "matches": [
+      {
+        "bil": 1,
+        "tarikh": "SABTU",
+        "masa": "08:00",
+        "codeA": "A1",
+        "reguA": "KUALA KANGSAR",
+        "codeB": "A3",
+        "reguB": "MUALLIM",
+        "pusingan": "Kumpulan A",
+        "kumpulan": "A",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 2,
+        "tarikh": "SABTU",
+        "masa": "08:00",
+        "codeA": "B1",
+        "reguA": "KINTA UTARA",
+        "codeB": "B3",
+        "reguB": "KERIAN",
+        "pusingan": "Kumpulan B",
+        "kumpulan": "B",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 3,
+        "tarikh": "SABTU",
+        "masa": "09:00",
+        "codeA": "C1",
+        "reguA": "LARUT MATANG SELAMA",
+        "codeB": "C3",
+        "reguB": "BAGAN DATUK",
+        "pusingan": "Kumpulan C",
+        "kumpulan": "C",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 4,
+        "tarikh": "SABTU",
+        "masa": "09:00",
+        "codeA": "D1",
+        "reguA": "KINTA SELATAN",
+        "codeB": "D3",
+        "reguB": "BATANG PADANG",
+        "pusingan": "Kumpulan D",
+        "kumpulan": "D",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 5,
+        "tarikh": "SABTU",
+        "masa": "10:00",
+        "codeA": "A2",
+        "reguA": "MANJUNG",
+        "codeB": "A1",
+        "reguB": "KUALA KANGSAR",
+        "pusingan": "Kumpulan A",
+        "kumpulan": "A",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 6,
+        "tarikh": "SABTU",
+        "masa": "10:00",
+        "codeA": "B2",
+        "reguA": "PERAK TENGAH",
+        "codeB": "B1",
+        "reguB": "KINTA UTARA",
+        "pusingan": "Kumpulan B",
+        "kumpulan": "B",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 7,
+        "tarikh": "SABTU",
+        "masa": "11:00",
+        "codeA": "C2",
+        "reguA": "HULU PERAK",
+        "codeB": "C1",
+        "reguB": "LARUT MATANG SELAMA",
+        "pusingan": "Kumpulan C",
+        "kumpulan": "C",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 8,
+        "tarikh": "SABTU",
+        "masa": "11:00",
+        "codeA": "D2",
+        "reguA": "HILIR PERAK",
+        "codeB": "D1",
+        "reguB": "KINTA SELATAN",
+        "pusingan": "Kumpulan D",
+        "kumpulan": "D",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 9,
+        "tarikh": "SABTU",
+        "masa": "12:00",
+        "codeA": "A3",
+        "reguA": "MUALLIM",
+        "codeB": "A2",
+        "reguB": "MANJUNG",
+        "pusingan": "Kumpulan A",
+        "kumpulan": "A",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 10,
+        "tarikh": "25 JULAI 2026",
+        "masa": "12:00",
+        "codeA": "B3",
+        "reguA": "KERIAN",
+        "codeB": "B2",
+        "reguB": "PERAK TENGAH",
+        "pusingan": "Kumpulan B",
+        "kumpulan": "B",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 11,
+        "tarikh": "25 JULAI 2026",
+        "masa": "13:00",
+        "codeA": "C3",
+        "reguA": "BAGAN DATUK",
+        "codeB": "C2",
+        "reguB": "HULU PERAK",
+        "pusingan": "Kumpulan C",
+        "kumpulan": "C",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 12,
+        "tarikh": "25 JULAI 2026",
+        "masa": "13:00",
+        "codeA": "D3",
+        "reguA": "BATANG PADANG",
+        "codeB": "D2",
+        "reguB": "HILIR PERAK",
+        "pusingan": "Kumpulan D",
+        "kumpulan": "D",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 13,
+        "tarikh": "25 JULAI 2026",
+        "masa": "15:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SUKU AKHIR 1",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 14,
+        "tarikh": "25 JULAI 2026",
+        "masa": "15:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SUKU AKHIR 2",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 15,
+        "tarikh": "25 JULAI 2026",
+        "masa": "17:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SUKU AKHIR 3",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 16,
+        "tarikh": "25 JULAI 2026",
+        "masa": "17:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SUKU AKHIR 4",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 17,
+        "tarikh": "25 JULAI 2026",
+        "masa": "20:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SEPARUH AKHIR 1",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 18,
+        "tarikh": "25 JULAI 2026",
+        "masa": "20:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "SEPARUH AKHIR 2",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 19,
+        "tarikh": "AHAD",
+        "masa": "08:30",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "TEMPAT KE-3 & 4",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      },
+      {
+        "bil": 20,
+        "tarikh": "AHAD",
+        "masa": "09:00",
+        "codeA": "",
+        "reguA": "TBA",
+        "codeB": "",
+        "reguB": "TBA",
+        "pusingan": "AKHIR",
+        "kumpulan": "",
+        "geladak": "",
+        "keputusan": ""
+      }
+    ]
+  }
+}

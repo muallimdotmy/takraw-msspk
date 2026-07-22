@@ -1,0 +1,89 @@
+{
+  "importedAt": "2026-07-22T21:14:19.476472Z",
+  "teams": {
+    "KINTA UTARA": {
+      "name": "KINTA UTARA",
+      "logo": "/teams/kinta-utara.jpg",
+      "source": "berpasukan",
+      "sheet": "JADUAL BERPASUKAN B12",
+      "code": "A1"
+    },
+    "KUALA KANGSAR": {
+      "name": "KUALA KANGSAR",
+      "logo": "/teams/kuala-kangsar.jpg",
+      "source": "berpasukan",
+      "sheet": "JADUAL BERPASUKAN B12",
+      "code": "B1"
+    },
+    "BAGAN DATUK": {
+      "name": "BAGAN DATUK",
+      "logo": "/teams/bagan-datuk.jpg",
+      "source": "berpasukan",
+      "sheet": "JADUAL BERPASUKAN B12",
+      "code": "A2"
+    },
+    "BATANG PADANG": {
+      "name": "BATANG PADANG",
+      "logo": "/teams/batang-padang.jpg",
+      "source": "berpasukan",
+      "sheet": "JADUAL BERPASUKAN B12",
+      "code": "B2"
+    },
+    "KERIAN": {
+      "name": "KERIAN",
+      "logo": "/teams/kerian.jpg",
+      "source": "berpasukan",
+      "sheet": "JADUAL BERPASUKAN B12",
+      "code": "A3"
+    },
+    "PERAK TENGAH": {
+      "name": "PERAK TENGAH",
+      "logo": "/teams/perak-tengah.jpg",
+      "source": "berpasukan",
+      "sheet": "JADUAL BERPASUKAN B12",
+      "code": "B3"
+    },
+    "MUALLIM": {
+      "name": "MUALLIM",
+      "logo": "/teams/muallim.jpg",
+      "source": "berpasukan",
+      "sheet": "JADUAL BERPASUKAN B12",
+      "code": "C1"
+    },
+    "HILIR PERAK": {
+      "name": "HILIR PERAK",
+      "logo": "/teams/hilir-perak.jpg",
+      "source": "berpasukan",
+      "sheet": "JADUAL BERPASUKAN B12",
+      "code": "D1"
+    },
+    "MANJUNG": {
+      "name": "MANJUNG",
+      "logo": "/teams/manjung.jpg",
+      "source": "berpasukan",
+      "sheet": "JADUAL BERPASUKAN B12",
+      "code": "C2"
+    },
+    "LARUT MATANG SELAMA": {
+      "name": "LARUT MATANG SELAMA",
+      "logo": "/teams/larut-matang-selama.jpg",
+      "source": "berpasukan",
+      "sheet": "JADUAL BERPASUKAN B12",
+      "code": "D2"
+    },
+    "HULU PERAK": {
+      "name": "HULU PERAK",
+      "logo": "/teams/hulu-perak.jpg",
+      "source": "berpasukan",
+      "sheet": "JADUAL BERPASUKAN B12",
+      "code": "C3"
+    },
+    "KINTA SELATAN": {
+      "name": "KINTA SELATAN",
+      "logo": "/teams/kinta-selatan.jpg",
+      "source": "berpasukan",
+      "sheet": "JADUAL BERPASUKAN B12",
+      "code": "D3"
+    }
+  }
+}

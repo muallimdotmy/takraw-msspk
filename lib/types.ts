@@ -18,6 +18,8 @@ export type SiteConfig = {
   embeds: {
     youtube: { majlisPenutup: string };
     jadual: Record<CategoryId, string>;
+    /** Embed penuh jadual Google Sheet (semua kategori) */
+    jadualSheet?: string;
     keputusan: string;
     bukuProgram: string;
     maps: string;
@@ -28,6 +30,7 @@ export type SiteConfig = {
     waze: string;
     legacySite: string;
     bukuProgramAnyflip: string;
+    jadualSheet?: string;
   };
   stats: { label: string; value: string; hint: string }[];
   categories: { id: CategoryId; label: string; short: string }[];
