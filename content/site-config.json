@@ -1,0 +1,128 @@
+{
+  "event": {
+    "name": "Kejohanan Sepak Takraw Majlis Sukan Sekolah Perak",
+    "shortName": "SEPAK TAKRAW MSSPk",
+    "year": 2026,
+    "dates": "24–26 Julai 2026",
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-26",
+    "venue": "STAR Wellness Hub, UPSI",
+    "venueFull": "STAR Wellness Hub, UPSI Kampus Sultan Abdul Jalil Shah, Tanjong Malim, Perak",
+    "status": "akan-datang",
+    "statusLabel": "Edisi 2026 · 24–26 Julai",
+    "organizer": "Majlis Sukan Sekolah Perak (MSSPk)"
+  },
+  "nav": [
+    {
+      "href": "#utama",
+      "label": "Utama"
+    },
+    {
+      "href": "#jadual",
+      "label": "Jadual"
+    },
+    {
+      "href": "#keputusan",
+      "label": "Keputusan"
+    },
+    {
+      "href": "#galeri",
+      "label": "Galeri"
+    },
+    {
+      "href": "#buku-program",
+      "label": "Buku Program"
+    },
+    {
+      "href": "#lokasi",
+      "label": "Lokasi"
+    },
+    {
+      "href": "#media",
+      "label": "YouTube"
+    }
+  ],
+  "embeds": {
+    "youtube": {
+      "majlisPenutup": "https://www.youtube.com/embed/gFo6BT1POPg"
+    },
+    "jadual": {
+      "u12": "",
+      "u15": "",
+      "u18": ""
+    },
+    "keputusan": "",
+    "bukuProgram": "",
+    "maps": "https://maps.google.com/maps?q=UPSI%20Kampus%20Sultan%20Abdul%20Jalil%20Shah%20Tanjong%20Malim&t=&z=16&ie=UTF8&iwloc=&output=embed"
+  },
+  "links": {
+    "youtube": "https://www.youtube.com/watch?v=gFo6BT1POPg",
+    "mapsExternal": "https://www.google.com/maps/search/?api=1&query=STAR+Wellness+Hub+UPSI+Tanjong+Malim",
+    "waze": "https://waze.com/ul?q=STAR%20Wellness%20Hub%20UPSI%20Tanjong%20Malim&navigate=yes",
+    "legacySite": "https://takrawmsspk.muallim.my/",
+    "bukuProgramAnyflip": "https://online.anyflip.com/djagr/uodr/"
+  },
+  "stats": [
+    {
+      "label": "Hari",
+      "value": "3",
+      "hint": "24–26 Julai"
+    },
+    {
+      "label": "Kategori",
+      "value": "3",
+      "hint": "U12 · U15 · U18"
+    },
+    {
+      "label": "Venue",
+      "value": "UPSI",
+      "hint": "STAR Wellness Hub"
+    },
+    {
+      "label": "Status",
+      "value": "Akan datang",
+      "hint": "Edisi 2026"
+    }
+  ],
+  "categories": [
+    {
+      "id": "u12",
+      "label": "Bawah 12 Tahun",
+      "short": "U12"
+    },
+    {
+      "id": "u15",
+      "label": "Bawah 15 Tahun",
+      "short": "U15"
+    },
+    {
+      "id": "u18",
+      "label": "Bawah 18 Tahun",
+      "short": "U18"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "hari-1",
+      "title": "Galeri Hari Pertama",
+      "description": "24 Julai 2026 — pembukaan & perlawanan hari 1",
+      "href": "https://takrawmsspk.muallim.my/galeri"
+    },
+    {
+      "id": "hari-2",
+      "title": "Galeri Hari Kedua",
+      "description": "25 Julai 2026 — aksi perlawanan hari 2",
+      "href": "https://takrawmsspk.muallim.my/galeri"
+    },
+    {
+      "id": "hari-3",
+      "title": "Galeri Hari Ketiga",
+      "description": "26 Julai 2026 — final & majlis penutup",
+      "href": "https://takrawmsspk.muallim.my/galeri/galeri-gambar-hari-ketiga"
+    }
+  ],
+  "footer": {
+    "credit": "Urusetia Kejohanan Sepak Takraw MSSPk 2026",
+    "note": "Laman rasmi kejohanan. Kandungan boleh dikemas kini melalui panel admin."
+  }
+}
