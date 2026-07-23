@@ -22,7 +22,9 @@ export function ScheduleTable({
           </p>
           <p className="text-xs text-muted">
             {metaNote ||
-              (isPlaceholder ? "Data contoh sahaja." : "Jadual rasmi kejohanan.")}
+              (isPlaceholder
+                ? "Jadual akan dipaparkan tidak lama lagi."
+                : "Jadual rasmi kejohanan.")}
           </p>
         </div>
         {isPlaceholder ? <PlaceholderBadge /> : null}

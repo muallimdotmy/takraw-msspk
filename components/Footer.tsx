@@ -26,14 +26,7 @@ export function Footer({ site }: { site: SiteConfig }) {
 
         <div className="flex flex-col gap-2 text-sm">
           <p className="font-semibold text-foreground">Pautan</p>
-          <a
-            href={site.links.legacySite}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-muted transition hover:text-accent"
-          >
-            Laman Google Sites (lama)
-          </a>
+
           <a
             href={site.links.youtube}
             target="_blank"

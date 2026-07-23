@@ -72,7 +72,7 @@ export function EventResultsPanel({ data, acaraLabel }: Props) {
                 Kedudukan — {acaraLabel} · {block.label}
               </p>
               <p className="text-xs text-muted">
-                Daerah diisi selepas kejohanan selesai (TBA = belum diisi).
+                Kedudukan dikemas kini selepas setiap pusingan selesai.
               </p>
             </div>
             <div className="overflow-x-auto">

@@ -1,5 +1,4 @@
 import type { SiteConfig } from "@/lib/types";
-import { PlaceholderBadge } from "./PlaceholderBadge";
 
 export function ProgramPlaceholder({ site }: { site: SiteConfig }) {
   return (
@@ -10,10 +9,9 @@ export function ProgramPlaceholder({ site }: { site: SiteConfig }) {
             Buku Program {site.event.year}
           </p>
           <p className="text-xs text-muted">
-            Preview PDF placeholder — sambung Google Drive kemudian
+            Dokumen rasmi kejohanan
           </p>
         </div>
-        <PlaceholderBadge />
       </div>
 
       <div className="grid gap-0 md:grid-cols-[200px_1fr]">
@@ -43,15 +41,15 @@ export function ProgramPlaceholder({ site }: { site: SiteConfig }) {
               {site.event.name}
             </h3>
             <p className="mt-2 text-sm leading-relaxed text-muted">
-              Kandungan buku program (placeholder): ucapan, urusetia, jadual
-              ringkas, peraturan, peta venue, dan senarai kontinjen.
+              Buku program mengandungi maklumat rasmi kejohanan termasuk ucapan,
+              urusetia, jadual, peraturan, peta venue, dan senarai kontinjen.
             </p>
           </div>
           <ul className="grid gap-2 text-sm text-muted sm:grid-cols-2">
             {[
               "Ucapan pengerusi",
               "Senarai urusetia",
-              "Jadual 3 hari",
+              "Jadual perlawanan",
               "Peraturan permainan",
               "Peta & venue",
               "Senarai regu",
@@ -72,11 +70,8 @@ export function ProgramPlaceholder({ site }: { site: SiteConfig }) {
               rel="noopener noreferrer"
               className="inline-flex rounded-full bg-primary px-5 py-2.5 text-sm font-bold text-white transition hover:bg-primary-glow"
             >
-              Buka AnyFlip (sementara)
+              Buka Buku Program
             </a>
-            <span className="inline-flex items-center rounded-full border border-dashed border-card-border px-4 py-2 text-xs text-muted">
-              Drive PDF: belum disambung
-            </span>
           </div>
         </div>
       </div>

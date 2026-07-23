@@ -115,7 +115,7 @@ export function CartaKalahClient({
             </h2>
           </div>
           <p className="max-w-sm text-right text-xs text-muted">
-            Slot diisi selepas keputusan kumpulan. TBA = pasukan belum ditentukan.
+            Pasukan pusingan kalah singkir ditentukan selepas keputusan kumpulan.
           </p>
         </div>
 

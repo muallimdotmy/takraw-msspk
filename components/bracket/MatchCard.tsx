@@ -49,7 +49,7 @@ export function MatchCard({
         {slot.masa ? <span className="font-semibold">{slot.masa}</span> : null}
         {isTba ? (
           <span className="mt-0.5 block text-[10px] text-muted/80">
-            Menunggu keputusan kumpulan
+            Belum ditentukan
           </span>
         ) : null}
       </div>

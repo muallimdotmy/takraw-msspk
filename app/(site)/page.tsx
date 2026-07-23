@@ -64,7 +64,7 @@ export default function Home() {
         id="galeri"
         eyebrow="Galeri"
         title="Galeri Gambar"
-        description="Grid placeholder + pautan ke galeri Google Sites lama."
+        description="Gambar dan kenangan kejohanan. Klik kad untuk buka galeri penuh."
       >
         <GalleryGrid site={site} />
       </Section>
@@ -73,7 +73,7 @@ export default function Home() {
         id="buku-program"
         eyebrow="Dokumen"
         title="Buku Program"
-        description="Cover & senarai kandungan contoh. Sambung Drive PDF bila sedia, atau buka AnyFlip sementara."
+        description="Buku program rasmi kejohanan. Buka secara dalam talian melalui pautan di bawah."
         className="bg-surface/40"
       >
         {site.embeds.bukuProgram ? (
@@ -137,13 +137,13 @@ export default function Home() {
       <Section
         id="media"
         eyebrow="Media"
-        title="YouTube · Majlis Penutup"
-        description="Tonton highlight dan majlis penutup kejohanan."
+        title="YouTube"
+        description="Video rasmi dan highlight kejohanan."
         className="bg-surface/40"
       >
         <EmbedFrame
           src={site.embeds.youtube.majlisPenutup}
-          title="Majlis penutup / highlight YouTube"
+          title="Video kejohanan YouTube"
           variant="video"
           fallbackHref={site.links.youtube}
           fallbackLabel="Buka di YouTube"

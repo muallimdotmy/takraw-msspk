@@ -19,7 +19,7 @@ export function EmbedFrame({
   variant = "video",
   fallbackHref,
   fallbackLabel = "Buka dalam tab baharu",
-  emptyMessage = "Pautan embed belum dikonfigurasi. Kemas kini content/site.ts.",
+  emptyMessage = "Kandungan belum tersedia.",
   placeholder,
 }: EmbedFrameProps) {
   const heightClass =
