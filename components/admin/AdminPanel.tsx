@@ -730,34 +730,47 @@ export function AdminPanel() {
         )}
 
         {tab === "nav" && (
-          <div className="space-y-3">
+          <div className="space-y-4">
             <p className="text-xs text-muted">
-              Item navigasi (href + label). Biasanya anchor #seksyen.
+              Item navigasi (href + label). Submenu diedit dalam{" "}
+              <code className="text-accent">site-config.json</code> medan{" "}
+              <code className="text-accent">children</code>.
             </p>
             {config.nav.map((item, i) => (
-              <div key={i} className="grid gap-3 sm:grid-cols-2">
-                <Field label="Href">
-                  <input
-                    className={inputClass}
-                    value={item.href}
-                    onChange={(e) => {
-                      const nav = [...config.nav];
-                      nav[i] = { ...nav[i], href: e.target.value };
-                      setConfig({ ...config, nav });
-                    }}
-                  />
-                </Field>
-                <Field label="Label">
-                  <input
-                    className={inputClass}
-                    value={item.label}
-                    onChange={(e) => {
-                      const nav = [...config.nav];
-                      nav[i] = { ...nav[i], label: e.target.value };
-                      setConfig({ ...config, nav });
-                    }}
-                  />
-                </Field>
+              <div
+                key={i}
+                className="space-y-2 rounded-xl border border-card-border bg-surface/40 p-3"
+              >
+                <div className="grid gap-3 sm:grid-cols-2">
+                  <Field label="Href">
+                    <input
+                      className={inputClass}
+                      value={item.href}
+                      onChange={(e) => {
+                        const nav = [...config.nav];
+                        nav[i] = { ...nav[i], href: e.target.value };
+                        setConfig({ ...config, nav });
+                      }}
+                    />
+                  </Field>
+                  <Field label="Label">
+                    <input
+                      className={inputClass}
+                      value={item.label}
+                      onChange={(e) => {
+                        const nav = [...config.nav];
+                        nav[i] = { ...nav[i], label: e.target.value };
+                        setConfig({ ...config, nav });
+                      }}
+                    />
+                  </Field>
+                </div>
+                {item.children?.length ? (
+                  <div className="rounded-lg border border-dashed border-card-border px-3 py-2 text-xs text-muted">
+                    Submenu:{" "}
+                    {item.children.map((c) => c.label).join(" · ")}
+                  </div>
+                ) : null}
               </div>
             ))}
           </div>

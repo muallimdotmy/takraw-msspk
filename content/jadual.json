@@ -74,7 +74,7 @@
     "matches": [
       {
         "bil": 1,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "08:00",
         "codeA": "A1",
         "reguA": "KINTA UTARA",
@@ -87,7 +87,7 @@
       },
       {
         "bil": 2,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "08:00",
         "codeA": "B1",
         "reguA": "KUALA KANGSAR",
@@ -100,7 +100,7 @@
       },
       {
         "bil": 3,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "09:00",
         "codeA": "C1",
         "reguA": "MUALLIM",
@@ -113,7 +113,7 @@
       },
       {
         "bil": 4,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "09:00",
         "codeA": "D1",
         "reguA": "HILIR PERAK",
@@ -126,7 +126,7 @@
       },
       {
         "bil": 5,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "10:00",
         "codeA": "A2",
         "reguA": "BAGAN DATUK",
@@ -139,7 +139,7 @@
       },
       {
         "bil": 6,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "10:00",
         "codeA": "B2",
         "reguA": "BATANG PADANG",
@@ -152,7 +152,7 @@
       },
       {
         "bil": 7,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "11:00",
         "codeA": "C2",
         "reguA": "MANJUNG",
@@ -165,7 +165,7 @@
       },
       {
         "bil": 8,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "11:00",
         "codeA": "D2",
         "reguA": "LARUT MATANG SELAMA",
@@ -178,7 +178,7 @@
       },
       {
         "bil": 9,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "12:00",
         "codeA": "A3",
         "reguA": "KERIAN",
@@ -191,7 +191,7 @@
       },
       {
         "bil": 10,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "12:00",
         "codeA": "B3",
         "reguA": "PERAK TENGAH",
@@ -204,7 +204,7 @@
       },
       {
         "bil": 11,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "13:00",
         "codeA": "C3",
         "reguA": "HULU PERAK",
@@ -217,7 +217,7 @@
       },
       {
         "bil": 12,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "13:00",
         "codeA": "D3",
         "reguA": "KINTA SELATAN",
@@ -230,7 +230,7 @@
       },
       {
         "bil": 13,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "15:00",
         "codeA": "",
         "reguA": "TBA",
@@ -243,7 +243,7 @@
       },
       {
         "bil": 14,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "15:00",
         "codeA": "",
         "reguA": "TBA",
@@ -256,7 +256,7 @@
       },
       {
         "bil": 15,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "17:00",
         "codeA": "",
         "reguA": "TBA",
@@ -269,7 +269,7 @@
       },
       {
         "bil": 16,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "17:00",
         "codeA": "",
         "reguA": "TBA",
@@ -282,7 +282,7 @@
       },
       {
         "bil": 17,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "20:00",
         "codeA": "",
         "reguA": "TBA",
@@ -295,7 +295,7 @@
       },
       {
         "bil": 18,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "20:00",
         "codeA": "",
         "reguA": "TBA",
@@ -308,7 +308,7 @@
       },
       {
         "bil": 19,
-        "tarikh": "AHAD",
+        "tarikh": "Ahad, 26 Julai 2026",
         "masa": "08:30",
         "codeA": "",
         "reguA": "TBA",
@@ -321,7 +321,7 @@
       },
       {
         "bil": 20,
-        "tarikh": "AHAD",
+        "tarikh": "Ahad, 26 Julai 2026",
         "masa": "09:00",
         "codeA": "",
         "reguA": "TBA",
@@ -404,7 +404,7 @@
     "matches": [
       {
         "bil": 1,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "08:00",
         "codeA": "A1",
         "reguA": "KINTA SELATAN",
@@ -417,7 +417,7 @@
       },
       {
         "bil": 2,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "08:00",
         "codeA": "B1",
         "reguA": "KERIAN",
@@ -430,7 +430,7 @@
       },
       {
         "bil": 3,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "09:00",
         "codeA": "C1",
         "reguA": "LARUT MATANG SELAMA",
@@ -443,7 +443,7 @@
       },
       {
         "bil": 4,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "09:00",
         "codeA": "D1",
         "reguA": "HULU PERAK",
@@ -456,7 +456,7 @@
       },
       {
         "bil": 5,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "10:00",
         "codeA": "A2",
         "reguA": "KUALA KANGSAR",
@@ -469,7 +469,7 @@
       },
       {
         "bil": 6,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "10:00",
         "codeA": "B2",
         "reguA": "HILIR PERAK",
@@ -482,7 +482,7 @@
       },
       {
         "bil": 7,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "11:00",
         "codeA": "C2",
         "reguA": "MUALLIM",
@@ -495,7 +495,7 @@
       },
       {
         "bil": 8,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "11:00",
         "codeA": "D2",
         "reguA": "BATANG PADANG",
@@ -508,7 +508,7 @@
       },
       {
         "bil": 9,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "12:00",
         "codeA": "A3",
         "reguA": "PERAK TENGAH",
@@ -521,7 +521,7 @@
       },
       {
         "bil": 10,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "12:00",
         "codeA": "B3",
         "reguA": "MANJUNG",
@@ -534,7 +534,7 @@
       },
       {
         "bil": 11,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "13:00",
         "codeA": "C3",
         "reguA": "BAGAN DATUK",
@@ -547,7 +547,7 @@
       },
       {
         "bil": 12,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "13:00",
         "codeA": "D3",
         "reguA": "KINTA UTARA",
@@ -560,7 +560,7 @@
       },
       {
         "bil": 13,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "15:00",
         "codeA": "",
         "reguA": "TBA",
@@ -573,7 +573,7 @@
       },
       {
         "bil": 14,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "15:00",
         "codeA": "",
         "reguA": "TBA",
@@ -586,7 +586,7 @@
       },
       {
         "bil": 15,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "17:00",
         "codeA": "",
         "reguA": "TBA",
@@ -599,7 +599,7 @@
       },
       {
         "bil": 16,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "17:00",
         "codeA": "",
         "reguA": "TBA",
@@ -612,7 +612,7 @@
       },
       {
         "bil": 17,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "20:00",
         "codeA": "",
         "reguA": "TBA",
@@ -625,7 +625,7 @@
       },
       {
         "bil": 18,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "20:00",
         "codeA": "",
         "reguA": "TBA",
@@ -638,7 +638,7 @@
       },
       {
         "bil": 19,
-        "tarikh": "AHAD",
+        "tarikh": "Ahad, 26 Julai 2026",
         "masa": "08:30",
         "codeA": "",
         "reguA": "TBA",
@@ -651,7 +651,7 @@
       },
       {
         "bil": 20,
-        "tarikh": "AHAD",
+        "tarikh": "Ahad, 26 Julai 2026",
         "masa": "09:00",
         "codeA": "",
         "reguA": "TBA",
@@ -734,7 +734,7 @@
     "matches": [
       {
         "bil": 1,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "08:00",
         "codeA": "A1",
         "reguA": "KUALA KANGSAR",
@@ -747,7 +747,7 @@
       },
       {
         "bil": 2,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "08:00",
         "codeA": "B1",
         "reguA": "KINTA UTARA",
@@ -760,7 +760,7 @@
       },
       {
         "bil": 3,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "09:00",
         "codeA": "C1",
         "reguA": "LARUT MATANG SELAMA",
@@ -773,7 +773,7 @@
       },
       {
         "bil": 4,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "09:00",
         "codeA": "D1",
         "reguA": "KINTA SELATAN",
@@ -786,7 +786,7 @@
       },
       {
         "bil": 5,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "10:00",
         "codeA": "A2",
         "reguA": "MANJUNG",
@@ -799,7 +799,7 @@
       },
       {
         "bil": 6,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "10:00",
         "codeA": "B2",
         "reguA": "PERAK TENGAH",
@@ -812,7 +812,7 @@
       },
       {
         "bil": 7,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "11:00",
         "codeA": "C2",
         "reguA": "HULU PERAK",
@@ -825,7 +825,7 @@
       },
       {
         "bil": 8,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "11:00",
         "codeA": "D2",
         "reguA": "HILIR PERAK",
@@ -838,7 +838,7 @@
       },
       {
         "bil": 9,
-        "tarikh": "SABTU",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "12:00",
         "codeA": "A3",
         "reguA": "MUALLIM",
@@ -851,7 +851,7 @@
       },
       {
         "bil": 10,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "12:00",
         "codeA": "B3",
         "reguA": "KERIAN",
@@ -864,7 +864,7 @@
       },
       {
         "bil": 11,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "13:00",
         "codeA": "C3",
         "reguA": "BAGAN DATUK",
@@ -877,7 +877,7 @@
       },
       {
         "bil": 12,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "13:00",
         "codeA": "D3",
         "reguA": "BATANG PADANG",
@@ -890,7 +890,7 @@
       },
       {
         "bil": 13,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "15:00",
         "codeA": "",
         "reguA": "TBA",
@@ -903,7 +903,7 @@
       },
       {
         "bil": 14,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "15:00",
         "codeA": "",
         "reguA": "TBA",
@@ -916,7 +916,7 @@
       },
       {
         "bil": 15,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "17:00",
         "codeA": "",
         "reguA": "TBA",
@@ -929,7 +929,7 @@
       },
       {
         "bil": 16,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "17:00",
         "codeA": "",
         "reguA": "TBA",
@@ -942,7 +942,7 @@
       },
       {
         "bil": 17,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "20:00",
         "codeA": "",
         "reguA": "TBA",
@@ -955,7 +955,7 @@
       },
       {
         "bil": 18,
-        "tarikh": "25 JULAI 2026",
+        "tarikh": "Sabtu, 25 Julai 2026",
         "masa": "20:00",
         "codeA": "",
         "reguA": "TBA",
@@ -968,7 +968,7 @@
       },
       {
         "bil": 19,
-        "tarikh": "AHAD",
+        "tarikh": "Ahad, 26 Julai 2026",
         "masa": "08:30",
         "codeA": "",
         "reguA": "TBA",
@@ -981,7 +981,7 @@
       },
       {
         "bil": 20,
-        "tarikh": "AHAD",
+        "tarikh": "Ahad, 26 Julai 2026",
         "masa": "09:00",
         "codeA": "",
         "reguA": "TBA",

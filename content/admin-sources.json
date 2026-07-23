@@ -9,6 +9,11 @@
     "fileId": "1RmnqDfSs9nN7Zfjy6p6mmJXYd2obBXBU",
     "label": "Quadrant — jadual & keputusan"
   },
-  "purpose": "Pautan Google Sheet rujukan admin sahaja — tidak dipaparkan di laman awam",
-  "updatedAt": "2026-07-22T21:03:05.666Z"
+  "logosFolder": {
+    "folderUrl": "https://drive.google.com/drive/folders/1Adq8wRKM3kC0uHDUqTPX53Q7PZzsJsv3",
+    "folderId": "1Adq8wRKM3kC0uHDUqTPX53Q7PZzsJsv3",
+    "label": "Logo pasukan full-res — rujukan admin sahaja"
+  },
+  "purpose": "Pautan Google Drive/Sheet rujukan admin sahaja — tidak dipaparkan di laman awam",
+  "updatedAt": "2026-07-23T07:05:00.000Z"
 }

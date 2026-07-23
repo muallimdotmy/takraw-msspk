@@ -1,0 +1,296 @@
+{
+  "acara": "berpasukan",
+  "generatedAt": "2026-07-22T23:27:08.414Z",
+  "categories": {
+    "u12": {
+      "category": "u12",
+      "label": "Bawah 12 Tahun",
+      "slots": [
+        {
+          "bil": 13,
+          "round": "qf",
+          "label": "Suku Akhir 1",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "15:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 14,
+          "round": "qf",
+          "label": "Suku Akhir 2",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "15:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 15,
+          "round": "qf",
+          "label": "Suku Akhir 3",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "17:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 16,
+          "round": "qf",
+          "label": "Suku Akhir 4",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "17:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 17,
+          "round": "sf",
+          "label": "Separuh Akhir 1",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "20:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 18,
+          "round": "sf",
+          "label": "Separuh Akhir 2",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "20:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 19,
+          "round": "third",
+          "label": "Tempat ke-3 & 4",
+          "tarikh": "Ahad, 26 Julai 2026",
+          "masa": "08:30",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 20,
+          "round": "final",
+          "label": "Akhir",
+          "tarikh": "Ahad, 26 Julai 2026",
+          "masa": "09:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        }
+      ]
+    },
+    "u15": {
+      "category": "u15",
+      "label": "Bawah 15 Tahun",
+      "slots": [
+        {
+          "bil": 13,
+          "round": "qf",
+          "label": "Suku Akhir 1",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "15:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 14,
+          "round": "qf",
+          "label": "Suku Akhir 2",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "15:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 15,
+          "round": "qf",
+          "label": "Suku Akhir 3",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "17:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 16,
+          "round": "qf",
+          "label": "Suku Akhir 4",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "17:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 17,
+          "round": "sf",
+          "label": "Separuh Akhir 1",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "20:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 18,
+          "round": "sf",
+          "label": "Separuh Akhir 2",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "20:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 19,
+          "round": "third",
+          "label": "Tempat ke-3 & 4",
+          "tarikh": "Ahad, 26 Julai 2026",
+          "masa": "08:30",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 20,
+          "round": "final",
+          "label": "Akhir",
+          "tarikh": "Ahad, 26 Julai 2026",
+          "masa": "09:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        }
+      ]
+    },
+    "u18": {
+      "category": "u18",
+      "label": "Bawah 18 Tahun",
+      "slots": [
+        {
+          "bil": 13,
+          "round": "qf",
+          "label": "Suku Akhir 1",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "15:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 14,
+          "round": "qf",
+          "label": "Suku Akhir 2",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "15:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 15,
+          "round": "qf",
+          "label": "Suku Akhir 3",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "17:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 16,
+          "round": "qf",
+          "label": "Suku Akhir 4",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "17:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 17,
+          "round": "sf",
+          "label": "Separuh Akhir 1",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "20:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 18,
+          "round": "sf",
+          "label": "Separuh Akhir 2",
+          "tarikh": "Sabtu, 25 Julai 2026",
+          "masa": "20:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 19,
+          "round": "third",
+          "label": "Tempat ke-3 & 4",
+          "tarikh": "Ahad, 26 Julai 2026",
+          "masa": "08:30",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        },
+        {
+          "bil": 20,
+          "round": "final",
+          "label": "Akhir",
+          "tarikh": "Ahad, 26 Julai 2026",
+          "masa": "09:00",
+          "teamA": "TBA",
+          "teamB": "TBA",
+          "winner": ""
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": 13,
+      "to": 17,
+      "side": "A"
+    },
+    {
+      "from": 14,
+      "to": 17,
+      "side": "B"
+    },
+    {
+      "from": 15,
+      "to": 18,
+      "side": "A"
+    },
+    {
+      "from": 16,
+      "to": 18,
+      "side": "B"
+    },
+    {
+      "from": 17,
+      "to": 20,
+      "side": "A"
+    },
+    {
+      "from": 18,
+      "to": 20,
+      "side": "B"
+    }
+  ]
+}

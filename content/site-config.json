@@ -19,19 +19,39 @@
     },
     {
       "href": "#jadual-quadrant",
-      "label": "Jadual Quadrant"
+      "label": "Jadual",
+      "children": [
+        {
+          "href": "#jadual-quadrant",
+          "label": "Quadrant (24 Jul)"
+        },
+        {
+          "href": "#jadual",
+          "label": "Regu Berpasukan (25–26 Jul)"
+        }
+      ]
     },
     {
       "href": "#keputusan-quadrant",
-      "label": "Keputusan Quadrant"
-    },
-    {
-      "href": "#jadual",
-      "label": "Jadual Berpasukan"
-    },
-    {
-      "href": "#keputusan",
-      "label": "Keputusan Berpasukan"
+      "label": "Keputusan",
+      "children": [
+        {
+          "href": "#keputusan-quadrant",
+          "label": "Quadrant"
+        },
+        {
+          "href": "#keputusan",
+          "label": "Regu Berpasukan"
+        },
+        {
+          "href": "/carta-kalah?acara=quadrant",
+          "label": "Carta Kalah Singkir · Quadrant"
+        },
+        {
+          "href": "/carta-kalah?acara=berpasukan",
+          "label": "Carta Kalah Singkir · Berpasukan"
+        }
+      ]
     },
     {
       "href": "#galeri",

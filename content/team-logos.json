@@ -1,89 +1,69 @@
 {
-  "importedAt": "2026-07-22T21:14:19.476472Z",
+  "importedAt": "2026-07-22T23:05:41.008848Z",
+  "source": {
+    "folderId": "1Adq8wRKM3kC0uHDUqTPX53Q7PZzsJsv3",
+    "note": "Full-res logos from Google Drive folder (admin source); not linked on public UI"
+  },
   "teams": {
-    "KINTA UTARA": {
-      "name": "KINTA UTARA",
-      "logo": "/teams/kinta-utara.jpg",
-      "source": "berpasukan",
-      "sheet": "JADUAL BERPASUKAN B12",
-      "code": "A1"
-    },
-    "KUALA KANGSAR": {
-      "name": "KUALA KANGSAR",
-      "logo": "/teams/kuala-kangsar.jpg",
-      "source": "berpasukan",
-      "sheet": "JADUAL BERPASUKAN B12",
-      "code": "B1"
-    },
     "BAGAN DATUK": {
       "name": "BAGAN DATUK",
-      "logo": "/teams/bagan-datuk.jpg",
-      "source": "berpasukan",
-      "sheet": "JADUAL BERPASUKAN B12",
-      "code": "A2"
+      "logo": "/teams/bagan-datuk.png",
+      "source": "drive-folder-hires"
     },
     "BATANG PADANG": {
       "name": "BATANG PADANG",
-      "logo": "/teams/batang-padang.jpg",
-      "source": "berpasukan",
-      "sheet": "JADUAL BERPASUKAN B12",
-      "code": "B2"
-    },
-    "KERIAN": {
-      "name": "KERIAN",
-      "logo": "/teams/kerian.jpg",
-      "source": "berpasukan",
-      "sheet": "JADUAL BERPASUKAN B12",
-      "code": "A3"
-    },
-    "PERAK TENGAH": {
-      "name": "PERAK TENGAH",
-      "logo": "/teams/perak-tengah.jpg",
-      "source": "berpasukan",
-      "sheet": "JADUAL BERPASUKAN B12",
-      "code": "B3"
-    },
-    "MUALLIM": {
-      "name": "MUALLIM",
-      "logo": "/teams/muallim.jpg",
-      "source": "berpasukan",
-      "sheet": "JADUAL BERPASUKAN B12",
-      "code": "C1"
+      "logo": "/teams/batang-padang.png",
+      "source": "drive-folder-hires"
     },
     "HILIR PERAK": {
       "name": "HILIR PERAK",
-      "logo": "/teams/hilir-perak.jpg",
-      "source": "berpasukan",
-      "sheet": "JADUAL BERPASUKAN B12",
-      "code": "D1"
-    },
-    "MANJUNG": {
-      "name": "MANJUNG",
-      "logo": "/teams/manjung.jpg",
-      "source": "berpasukan",
-      "sheet": "JADUAL BERPASUKAN B12",
-      "code": "C2"
-    },
-    "LARUT MATANG SELAMA": {
-      "name": "LARUT MATANG SELAMA",
-      "logo": "/teams/larut-matang-selama.jpg",
-      "source": "berpasukan",
-      "sheet": "JADUAL BERPASUKAN B12",
-      "code": "D2"
+      "logo": "/teams/hilir-perak.png",
+      "source": "drive-folder-hires"
     },
     "HULU PERAK": {
       "name": "HULU PERAK",
-      "logo": "/teams/hulu-perak.jpg",
-      "source": "berpasukan",
-      "sheet": "JADUAL BERPASUKAN B12",
-      "code": "C3"
+      "logo": "/teams/hulu-perak.png",
+      "source": "drive-folder-hires"
+    },
+    "KERIAN": {
+      "name": "KERIAN",
+      "logo": "/teams/kerian.png",
+      "source": "drive-folder-hires"
     },
     "KINTA SELATAN": {
       "name": "KINTA SELATAN",
-      "logo": "/teams/kinta-selatan.jpg",
-      "source": "berpasukan",
-      "sheet": "JADUAL BERPASUKAN B12",
-      "code": "D3"
+      "logo": "/teams/kinta-selatan.png",
+      "source": "drive-folder-hires"
+    },
+    "KINTA UTARA": {
+      "name": "KINTA UTARA",
+      "logo": "/teams/kinta-utara.png",
+      "source": "drive-folder-hires"
+    },
+    "KUALA KANGSAR": {
+      "name": "KUALA KANGSAR",
+      "logo": "/teams/kuala-kangsar.png",
+      "source": "drive-folder-hires"
+    },
+    "LARUT MATANG SELAMA": {
+      "name": "LARUT MATANG SELAMA",
+      "logo": "/teams/larut-matang-selama.png",
+      "source": "drive-folder-hires"
+    },
+    "MANJUNG": {
+      "name": "MANJUNG",
+      "logo": "/teams/manjung.png",
+      "source": "drive-folder-hires"
+    },
+    "MUALLIM": {
+      "name": "MUALLIM",
+      "logo": "/teams/muallim.png",
+      "source": "drive-folder-hires"
+    },
+    "PERAK TENGAH": {
+      "name": "PERAK TENGAH",
+      "logo": "/teams/perak-tengah.png",
+      "source": "drive-folder-hires"
     }
   }
 }

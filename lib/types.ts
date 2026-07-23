@@ -1,5 +1,11 @@
 export type CategoryId = "u12" | "u15" | "u18";
 
+export type NavItem = {
+  href: string;
+  label: string;
+  children?: { href: string; label: string }[];
+};
+
 export type SiteConfig = {
   event: {
     name: string;
@@ -14,7 +20,7 @@ export type SiteConfig = {
     statusLabel: string;
     organizer: string;
   };
-  nav: { href: string; label: string }[];
+  nav: NavItem[];
   embeds: {
     youtube: { majlisPenutup: string };
     jadual: Record<CategoryId, string>;
