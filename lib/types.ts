@@ -36,6 +36,8 @@ export type SiteConfig = {
     waze: string;
     legacySite: string;
     bukuProgramAnyflip: string;
+    /** Cover/background image for Buku Program card */
+    bukuProgramImage?: string;
     jadualSheet?: string;
   };
   stats: { label: string; value: string; hint: string }[];

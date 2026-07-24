@@ -1,6 +1,8 @@
 import type { SiteConfig } from "@/lib/types";
 
 export function ProgramPlaceholder({ site }: { site: SiteConfig }) {
+  const coverImage = site.links.bukuProgramImage;
+
   return (
     <div className="overflow-hidden rounded-2xl border border-card-border bg-card">
       <div className="flex flex-wrap items-center justify-between gap-2 border-b border-card-border bg-surface/60 px-4 py-3">
@@ -8,29 +10,48 @@ export function ProgramPlaceholder({ site }: { site: SiteConfig }) {
           <p className="text-sm font-bold text-foreground">
             Buku Program {site.event.year}
           </p>
-          <p className="text-xs text-muted">
-            Dokumen rasmi kejohanan
-          </p>
+          <p className="text-xs text-muted">Dokumen rasmi kejohanan</p>
         </div>
       </div>
 
       <div className="grid gap-0 md:grid-cols-[200px_1fr]">
-        <div className="relative flex min-h-[280px] flex-col items-center justify-center bg-gradient-to-br from-primary-dark via-surface to-background p-6 text-center">
-          <div className="absolute inset-3 rounded-lg border border-accent/30" />
-          <p className="relative text-[10px] font-bold uppercase tracking-[0.25em] text-accent">
+        <div
+          className="relative flex min-h-[280px] flex-col items-center justify-center bg-gradient-to-br from-primary-dark via-surface to-background p-6 text-center"
+          style={
+            coverImage
+              ? {
+                  backgroundImage: `linear-gradient(to top, rgba(0,0,0,0.78) 0%, rgba(0,0,0,0.25) 50%, rgba(0,0,0,0.15) 100%), url(${coverImage})`,
+                  backgroundSize: "cover",
+                  backgroundPosition: "center",
+                }
+              : undefined
+          }
+        >
+          <div
+            className={`absolute inset-3 rounded-lg border ${coverImage ? "border-white/25" : "border-accent/30"}`}
+          />
+          <p
+            className={`relative text-[10px] font-bold uppercase tracking-[0.25em] ${coverImage ? "text-amber-300" : "text-accent"}`}
+          >
             MSSPk
           </p>
-          <p className="relative mt-3 text-lg font-extrabold leading-tight text-foreground">
+          <p
+            className={`relative mt-3 text-lg font-extrabold leading-tight ${coverImage ? "text-white" : "text-foreground"}`}
+          >
             Buku
             <br />
             Program
           </p>
-          <p className="relative mt-2 text-xs text-muted">
+          <p
+            className={`relative mt-2 text-xs ${coverImage ? "text-white/80" : "text-muted"}`}
+          >
             Sepak Takraw
             <br />
             {site.event.year}
           </p>
-          <p className="relative mt-6 text-[10px] uppercase tracking-widest text-primary-glow">
+          <p
+            className={`relative mt-6 text-[10px] uppercase tracking-widest ${coverImage ? "text-primary-glow" : "text-primary-glow"}`}
+          >
             {site.event.dates.replace(` ${site.event.year}`, "")}
           </p>
         </div>

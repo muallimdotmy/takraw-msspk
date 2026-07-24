@@ -589,6 +589,7 @@ export function AdminPanel() {
                 ["waze", "Waze"],
                 ["legacySite", "Laman lama (Google Sites)"],
                 ["bukuProgramAnyflip", "AnyFlip buku program"],
+                ["bukuProgramImage", "Imej cover buku program"],
               ] as const
             ).map(([key, label]) => (
               <Field key={key} label={label}>
