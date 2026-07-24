@@ -1,7 +1,7 @@
 {
   "source": {
     "fileId": "1RmnqDfSs9nN7Zfjy6p6mmJXYd2obBXBU",
-    "importedAt": "2026-07-24T08:43:44.167Z",
+    "importedAt": "2026-07-24T09:31:22.132Z",
     "note": "URL sheet dikelola admin sahaja",
     "acara": "Quadrant"
   },
@@ -198,6 +198,22 @@
         "reguB": "LARUT MATANG SELAMA",
         "pemenang": "LARUT MATANG SELAMA",
         "skor": "0-2"
+      },
+      {
+        "bil": 17,
+        "kumpulan": "Separuh Akhir 1",
+        "reguA": "BAGAN DATUK",
+        "reguB": "KINTA UTARA",
+        "pemenang": "BAGAN DATUK",
+        "skor": "2-0"
+      },
+      {
+        "bil": 18,
+        "kumpulan": "Separuh Akhir 2",
+        "reguA": "BATANG PADANG",
+        "reguB": "LARUT MATANG SELAMA",
+        "pemenang": "BATANG PADANG",
+        "skor": "2-0"
       }
     ]
   },

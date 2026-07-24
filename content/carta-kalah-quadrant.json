@@ -1,6 +1,6 @@
 {
   "acara": "quadrant",
-  "generatedAt": "2026-07-24T08:43:44.284Z",
+  "generatedAt": "2026-07-24T09:31:25.595Z",
   "categories": {
     "u12": {
       "category": "u12",
@@ -54,7 +54,7 @@
           "masa": "17:00",
           "teamA": "BAGAN DATUK",
           "teamB": "KINTA UTARA",
-          "winner": ""
+          "winner": "BAGAN DATUK"
         },
         {
           "bil": 18,
@@ -64,7 +64,7 @@
           "masa": "17:00",
           "teamA": "BATANG PADANG",
           "teamB": "LARUT MATANG SELAMA",
-          "winner": ""
+          "winner": "BATANG PADANG"
         },
         {
           "bil": 19,
@@ -72,8 +72,8 @@
           "label": "Tempat ke-3 & 4",
           "tarikh": "Jumaat, 24 Julai 2026",
           "masa": "18:00",
-          "teamA": "TBA",
-          "teamB": "TBA",
+          "teamA": "KINTA UTARA",
+          "teamB": "LARUT MATANG SELAMA",
           "winner": ""
         },
         {
@@ -82,8 +82,8 @@
           "label": "Akhir",
           "tarikh": "Jumaat, 24 Julai 2026",
           "masa": "18:00",
-          "teamA": "TBA",
-          "teamB": "TBA",
+          "teamA": "BAGAN DATUK",
+          "teamB": "BATANG PADANG",
           "winner": ""
         }
       ]
