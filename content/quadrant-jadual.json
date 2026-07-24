@@ -1,7 +1,7 @@
 {
   "source": {
     "fileId": "1RmnqDfSs9nN7Zfjy6p6mmJXYd2obBXBU",
-    "importedAt": "2026-07-22T21:03:05.594Z",
+    "importedAt": "2026-07-24T06:24:53.008Z",
     "note": "URL sheet dikelola admin sahaja",
     "acara": "Quadrant"
   },
@@ -83,8 +83,8 @@
         "reguB": "BATANG PADANG",
         "pusingan": "Kumpulan A",
         "kumpulan": "A",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "1",
+        "keputusan": "0-2"
       },
       {
         "bil": 2,
@@ -96,8 +96,8 @@
         "reguB": "PERAK TENGAH",
         "pusingan": "Kumpulan B",
         "kumpulan": "B",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "2",
+        "keputusan": "2-0"
       },
       {
         "bil": 3,
@@ -109,8 +109,8 @@
         "reguB": "MUALLIM",
         "pusingan": "Kumpulan C",
         "kumpulan": "C",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "1",
+        "keputusan": "2-0"
       },
       {
         "bil": 4,
@@ -122,8 +122,8 @@
         "reguB": "HILIR PERAK",
         "pusingan": "Kumpulan D",
         "kumpulan": "D",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "2",
+        "keputusan": "0-2"
       },
       {
         "bil": 5,
@@ -135,8 +135,8 @@
         "reguB": "KINTA SELATAN",
         "pusingan": "Kumpulan A",
         "kumpulan": "A",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "1",
+        "keputusan": "2-0"
       },
       {
         "bil": 6,
@@ -148,8 +148,8 @@
         "reguB": "BAGAN DATUK",
         "pusingan": "Kumpulan B",
         "kumpulan": "B",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "2",
+        "keputusan": "0-2"
       },
       {
         "bil": 7,
@@ -161,8 +161,8 @@
         "reguB": "KINTA UTARA",
         "pusingan": "Kumpulan C",
         "kumpulan": "C",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "1",
+        "keputusan": "0-2"
       },
       {
         "bil": 8,
@@ -174,8 +174,8 @@
         "reguB": "KUALA KANGSAR",
         "pusingan": "Kumpulan D",
         "kumpulan": "D",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "2",
+        "keputusan": "0-2"
       },
       {
         "bil": 9,
@@ -187,8 +187,8 @@
         "reguB": "KERIAN",
         "pusingan": "Kumpulan A",
         "kumpulan": "A",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "1",
+        "keputusan": "2-0"
       },
       {
         "bil": 10,
@@ -200,8 +200,8 @@
         "reguB": "HULU PERAK",
         "pusingan": "Kumpulan B",
         "kumpulan": "B",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "2",
+        "keputusan": "0-2"
       },
       {
         "bil": 11,
@@ -213,8 +213,8 @@
         "reguB": "LARUT MATANG SELAMA",
         "pusingan": "Kumpulan C",
         "kumpulan": "C",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "1",
+        "keputusan": "0-2"
       },
       {
         "bil": 12,
@@ -226,18 +226,18 @@
         "reguB": "MANJUNG",
         "pusingan": "Kumpulan D",
         "kumpulan": "D",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "2",
+        "keputusan": "2-0"
       },
       {
         "bil": 13,
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "15:00",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "BAGAN DATUK",
         "codeB": "",
-        "reguB": "TBA",
-        "pusingan": "SUKU AKHIR 1",
+        "reguB": "KERIAN",
+        "pusingan": "Suku Akhir 1",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -247,10 +247,10 @@
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "15:00",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "KINTA UTARA",
         "codeB": "",
-        "reguB": "TBA",
-        "pusingan": "SUKU AKHIR 2",
+        "reguB": "KUALA KANGSAR",
+        "pusingan": "Suku Akhir 2",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -260,10 +260,10 @@
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "15:45",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "BATANG PADANG",
         "codeB": "",
-        "reguB": "TBA",
-        "pusingan": "SUKU AKHIR 3",
+        "reguB": "HULU PERAK",
+        "pusingan": "Suku Akhir 3",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -273,10 +273,10 @@
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "15:45",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "HILIR PERAK",
         "codeB": "",
-        "reguB": "TBA",
-        "pusingan": "SUKU AKHIR 4",
+        "reguB": "LARUT MATANG SELAMA",
+        "pusingan": "Suku Akhir 4",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -289,7 +289,7 @@
         "reguA": "TBA",
         "codeB": "",
         "reguB": "TBA",
-        "pusingan": "SEPARUH AKHIR 1",
+        "pusingan": "Separuh Akhir 1",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -302,7 +302,7 @@
         "reguA": "TBA",
         "codeB": "",
         "reguB": "TBA",
-        "pusingan": "SEPARUH AKHIR 2",
+        "pusingan": "Separuh Akhir 2",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -315,7 +315,7 @@
         "reguA": "TBA",
         "codeB": "",
         "reguB": "TBA",
-        "pusingan": "TEMPAT KE-3 & 4",
+        "pusingan": "Tempat ke-3 & 4",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -328,7 +328,7 @@
         "reguA": "TBA",
         "codeB": "",
         "reguB": "TBA",
-        "pusingan": "AKHIR",
+        "pusingan": "Akhir",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -413,8 +413,8 @@
         "reguB": "KINTA SELATAN",
         "pusingan": "Kumpulan A",
         "kumpulan": "A",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "5",
+        "keputusan": "0-2"
       },
       {
         "bil": 2,
@@ -426,8 +426,8 @@
         "reguB": "KINTA UTARA",
         "pusingan": "Kumpulan B",
         "kumpulan": "B",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "6",
+        "keputusan": "0-2"
       },
       {
         "bil": 3,
@@ -439,8 +439,8 @@
         "reguB": "KUALA KANGSAR",
         "pusingan": "Kumpulan C",
         "kumpulan": "C",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "5",
+        "keputusan": "2-0"
       },
       {
         "bil": 4,
@@ -452,8 +452,8 @@
         "reguB": "LARUT MATANG SELAMA",
         "pusingan": "Kumpulan D",
         "kumpulan": "D",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "6",
+        "keputusan": "0-2"
       },
       {
         "bil": 5,
@@ -465,8 +465,8 @@
         "reguB": "BATANG PADANG",
         "pusingan": "Kumpulan A",
         "kumpulan": "A",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "5",
+        "keputusan": "0-2"
       },
       {
         "bil": 6,
@@ -478,8 +478,8 @@
         "reguB": "HILIR PERAK",
         "pusingan": "Kumpulan B",
         "kumpulan": "B",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "6",
+        "keputusan": "2-0"
       },
       {
         "bil": 7,
@@ -491,8 +491,8 @@
         "reguB": "MUALLIM",
         "pusingan": "Kumpulan C",
         "kumpulan": "C",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "5",
+        "keputusan": "2-0"
       },
       {
         "bil": 8,
@@ -504,8 +504,8 @@
         "reguB": "PERAK TENGAH",
         "pusingan": "Kumpulan D",
         "kumpulan": "D",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "6",
+        "keputusan": "2-0"
       },
       {
         "bil": 9,
@@ -517,8 +517,8 @@
         "reguB": "BAGAN DATUK",
         "pusingan": "Kumpulan A",
         "kumpulan": "A",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "5",
+        "keputusan": "2-0"
       },
       {
         "bil": 10,
@@ -530,8 +530,8 @@
         "reguB": "MANJUNG",
         "pusingan": "Kumpulan B",
         "kumpulan": "B",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "6",
+        "keputusan": "2-0"
       },
       {
         "bil": 11,
@@ -543,8 +543,8 @@
         "reguB": "KERIAN",
         "pusingan": "Kumpulan C",
         "kumpulan": "C",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "5",
+        "keputusan": "0-2"
       },
       {
         "bil": 12,
@@ -556,18 +556,18 @@
         "reguB": "HULU PERAK",
         "pusingan": "Kumpulan D",
         "kumpulan": "D",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "6",
+        "keputusan": "0-2"
       },
       {
         "bil": 13,
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "15:00",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "KINTA UTARA",
         "codeB": "",
-        "reguB": "TBA",
-        "pusingan": "SUKU AKHIR 1",
+        "reguB": "BATANG PADANG",
+        "pusingan": "Suku Akhir 1",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -577,10 +577,10 @@
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "15:00",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "HULU PERAK",
         "codeB": "",
-        "reguB": "TBA",
-        "pusingan": "SUKU AKHIR 2",
+        "reguB": "MUALLIM",
+        "pusingan": "Suku Akhir 2",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -590,10 +590,10 @@
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "15:45",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "KERIAN",
         "codeB": "",
-        "reguB": "TBA",
-        "pusingan": "SUKU AKHIR 3",
+        "reguB": "LARUT MATANG SELAMA",
+        "pusingan": "Suku Akhir 3",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -603,10 +603,10 @@
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "15:45",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "KINTA SELATAN",
         "codeB": "",
-        "reguB": "TBA",
-        "pusingan": "SUKU AKHIR 4",
+        "reguB": "MANJUNG",
+        "pusingan": "Suku Akhir 4",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -619,7 +619,7 @@
         "reguA": "TBA",
         "codeB": "",
         "reguB": "TBA",
-        "pusingan": "SEPARUH AKHIR 1",
+        "pusingan": "Separuh Akhir 1",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -632,7 +632,7 @@
         "reguA": "TBA",
         "codeB": "",
         "reguB": "TBA",
-        "pusingan": "SEPARUH AKHIR 2",
+        "pusingan": "Separuh Akhir 2",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -645,7 +645,7 @@
         "reguA": "TBA",
         "codeB": "",
         "reguB": "TBA",
-        "pusingan": "TEMPAT KE-3 & 4",
+        "pusingan": "Tempat ke-3 & 4",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -658,7 +658,7 @@
         "reguA": "TBA",
         "codeB": "",
         "reguB": "TBA",
-        "pusingan": "AKHIR",
+        "pusingan": "Akhir",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -743,8 +743,8 @@
         "reguB": "BATANG PADANG",
         "pusingan": "Kumpulan A",
         "kumpulan": "A",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "3",
+        "keputusan": "0-2"
       },
       {
         "bil": 2,
@@ -756,8 +756,8 @@
         "reguB": "MUALLIM",
         "pusingan": "Kumpulan B",
         "kumpulan": "B",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "4",
+        "keputusan": "2-0"
       },
       {
         "bil": 3,
@@ -769,8 +769,8 @@
         "reguB": "HILIR PERAK",
         "pusingan": "Kumpulan C",
         "kumpulan": "C",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "3",
+        "keputusan": "2-0"
       },
       {
         "bil": 4,
@@ -782,8 +782,8 @@
         "reguB": "HULU PERAK",
         "pusingan": "Kumpulan D",
         "kumpulan": "D",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "4",
+        "keputusan": "2-0"
       },
       {
         "bil": 5,
@@ -795,8 +795,8 @@
         "reguB": "BAGAN DATUK",
         "pusingan": "Kumpulan A",
         "kumpulan": "A",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "3",
+        "keputusan": "0-2"
       },
       {
         "bil": 6,
@@ -808,8 +808,8 @@
         "reguB": "LARUT MATANG SELAMA",
         "pusingan": "Kumpulan B",
         "kumpulan": "B",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "4",
+        "keputusan": "0-2"
       },
       {
         "bil": 7,
@@ -821,8 +821,8 @@
         "reguB": "MANJUNG",
         "pusingan": "Kumpulan C",
         "kumpulan": "C",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "3",
+        "keputusan": "0-2"
       },
       {
         "bil": 8,
@@ -834,8 +834,8 @@
         "reguB": "KUALA KANGSAR",
         "pusingan": "Kumpulan D",
         "kumpulan": "D",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "4",
+        "keputusan": "2-0"
       },
       {
         "bil": 9,
@@ -847,8 +847,8 @@
         "reguB": "KERIAN",
         "pusingan": "Kumpulan A",
         "kumpulan": "A",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "3",
+        "keputusan": "2-0"
       },
       {
         "bil": 10,
@@ -860,8 +860,8 @@
         "reguB": "PERAK TENGAH",
         "pusingan": "Kumpulan B",
         "kumpulan": "B",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "4",
+        "keputusan": "2-0"
       },
       {
         "bil": 11,
@@ -873,8 +873,8 @@
         "reguB": "KINTA SELATAN",
         "pusingan": "Kumpulan C",
         "kumpulan": "C",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "3",
+        "keputusan": "2-0"
       },
       {
         "bil": 12,
@@ -886,18 +886,18 @@
         "reguB": "KINTA UTARA",
         "pusingan": "Kumpulan D",
         "kumpulan": "D",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "4",
+        "keputusan": "0-2"
       },
       {
         "bil": 13,
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "15:00",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "BATANG PADANG",
         "codeB": "",
-        "reguB": "TBA",
-        "pusingan": "SUKU AKHIR 1",
+        "reguB": "MUALLIM",
+        "pusingan": "Suku Akhir 1",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -907,10 +907,10 @@
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "15:00",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "KINTA UTARA",
         "codeB": "",
-        "reguB": "TBA",
-        "pusingan": "SUKU AKHIR 2",
+        "reguB": "KINTA SELATAN",
+        "pusingan": "Suku Akhir 2",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -920,10 +920,10 @@
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "15:45",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "MANJUNG",
         "codeB": "",
-        "reguB": "TBA",
-        "pusingan": "SUKU AKHIR 3",
+        "reguB": "KUALA KANGSAR",
+        "pusingan": "Suku Akhir 3",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -933,10 +933,10 @@
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "15:45",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "LARUT MATANG SELAMA",
         "codeB": "",
-        "reguB": "TBA",
-        "pusingan": "SUKU AKHIR 4",
+        "reguB": "BAGAN DATUK",
+        "pusingan": "Suku Akhir 4",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -949,7 +949,7 @@
         "reguA": "TBA",
         "codeB": "",
         "reguB": "TBA",
-        "pusingan": "SEPARUH AKHIR 1",
+        "pusingan": "Separuh Akhir 1",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -962,7 +962,7 @@
         "reguA": "TBA",
         "codeB": "",
         "reguB": "TBA",
-        "pusingan": "SEPARUH AKHIR 2",
+        "pusingan": "Separuh Akhir 2",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -975,7 +975,7 @@
         "reguA": "TBA",
         "codeB": "",
         "reguB": "TBA",
-        "pusingan": "TEMPAT KE-3 & 4",
+        "pusingan": "Tempat ke-3 & 4",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""
@@ -988,7 +988,7 @@
         "reguA": "TBA",
         "codeB": "",
         "reguB": "TBA",
-        "pusingan": "AKHIR",
+        "pusingan": "Akhir",
         "kumpulan": "",
         "geladak": "",
         "keputusan": ""

@@ -1,7 +1,7 @@
 {
   "source": {
     "fileId": "1RmnqDfSs9nN7Zfjy6p6mmJXYd2obBXBU",
-    "importedAt": "2026-07-22T21:03:05.631Z",
+    "importedAt": "2026-07-24T06:24:53.008Z",
     "note": "URL sheet dikelola admin sahaja",
     "acara": "Quadrant"
   },
@@ -76,96 +76,96 @@
         "kumpulan": "A",
         "reguA": "KINTA SELATAN",
         "reguB": "BATANG PADANG",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "BATANG PADANG",
+        "skor": "0-2"
       },
       {
         "bil": 2,
         "kumpulan": "B",
         "reguA": "BAGAN DATUK",
         "reguB": "PERAK TENGAH",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "BAGAN DATUK",
+        "skor": "2-0"
       },
       {
         "bil": 3,
         "kumpulan": "C",
         "reguA": "KINTA UTARA",
         "reguB": "MUALLIM",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KINTA UTARA",
+        "skor": "2-0"
       },
       {
         "bil": 4,
         "kumpulan": "D",
         "reguA": "KUALA KANGSAR",
         "reguB": "HILIR PERAK",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "HILIR PERAK",
+        "skor": "0-2"
       },
       {
         "bil": 5,
         "kumpulan": "A",
         "reguA": "KERIAN",
         "reguB": "KINTA SELATAN",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KERIAN",
+        "skor": "2-0"
       },
       {
         "bil": 6,
         "kumpulan": "B",
         "reguA": "HULU PERAK",
         "reguB": "BAGAN DATUK",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "BAGAN DATUK",
+        "skor": "0-2"
       },
       {
         "bil": 7,
         "kumpulan": "C",
         "reguA": "LARUT MATANG SELAMA",
         "reguB": "KINTA UTARA",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KINTA UTARA",
+        "skor": "0-2"
       },
       {
         "bil": 8,
         "kumpulan": "D",
         "reguA": "MANJUNG",
         "reguB": "KUALA KANGSAR",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KUALA KANGSAR",
+        "skor": "0-2"
       },
       {
         "bil": 9,
         "kumpulan": "A",
         "reguA": "BATANG PADANG",
         "reguB": "KERIAN",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "BATANG PADANG",
+        "skor": "2-0"
       },
       {
         "bil": 10,
         "kumpulan": "B",
         "reguA": "PERAK TENGAH",
         "reguB": "HULU PERAK",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "HULU PERAK",
+        "skor": "0-2"
       },
       {
         "bil": 11,
         "kumpulan": "C",
         "reguA": "MUALLIM",
         "reguB": "LARUT MATANG SELAMA",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "LARUT MATANG SELAMA",
+        "skor": "0-2"
       },
       {
         "bil": 12,
         "kumpulan": "D",
         "reguA": "HILIR PERAK",
         "reguB": "MANJUNG",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "HILIR PERAK",
+        "skor": "2-0"
       }
     ]
   },
@@ -240,96 +240,96 @@
         "kumpulan": "A",
         "reguA": "BATANG PADANG",
         "reguB": "KINTA SELATAN",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KINTA SELATAN",
+        "skor": "0-2"
       },
       {
         "bil": 2,
         "kumpulan": "B",
         "reguA": "HILIR PERAK",
         "reguB": "KINTA UTARA",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KINTA UTARA",
+        "skor": "0-2"
       },
       {
         "bil": 3,
         "kumpulan": "C",
         "reguA": "MUALLIM",
         "reguB": "KUALA KANGSAR",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "MUALLIM",
+        "skor": "2-0"
       },
       {
         "bil": 4,
         "kumpulan": "D",
         "reguA": "PERAK TENGAH",
         "reguB": "LARUT MATANG SELAMA",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "LARUT MATANG SELAMA",
+        "skor": "0-2"
       },
       {
         "bil": 5,
         "kumpulan": "A",
         "reguA": "BAGAN DATUK",
         "reguB": "BATANG PADANG",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "BATANG PADANG",
+        "skor": "0-2"
       },
       {
         "bil": 6,
         "kumpulan": "B",
         "reguA": "MANJUNG",
         "reguB": "HILIR PERAK",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "MANJUNG",
+        "skor": "2-0"
       },
       {
         "bil": 7,
         "kumpulan": "C",
         "reguA": "KERIAN",
         "reguB": "MUALLIM",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KERIAN",
+        "skor": "2-0"
       },
       {
         "bil": 8,
         "kumpulan": "D",
         "reguA": "HULU PERAK",
         "reguB": "PERAK TENGAH",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "HULU PERAK",
+        "skor": "2-0"
       },
       {
         "bil": 9,
         "kumpulan": "A",
         "reguA": "KINTA SELATAN",
         "reguB": "BAGAN DATUK",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KINTA SELATAN",
+        "skor": "2-0"
       },
       {
         "bil": 10,
         "kumpulan": "B",
         "reguA": "KINTA UTARA",
         "reguB": "MANJUNG",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KINTA UTARA",
+        "skor": "2-0"
       },
       {
         "bil": 11,
         "kumpulan": "C",
         "reguA": "KUALA KANGSAR",
         "reguB": "KERIAN",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KERIAN",
+        "skor": "0-2"
       },
       {
         "bil": 12,
         "kumpulan": "D",
         "reguA": "LARUT MATANG SELAMA",
         "reguB": "HULU PERAK",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "HULU PERAK",
+        "skor": "0-2"
       }
     ]
   },
@@ -404,96 +404,96 @@
         "kumpulan": "A",
         "reguA": "BAGAN DATUK",
         "reguB": "BATANG PADANG",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "BATANG PADANG",
+        "skor": "0-2"
       },
       {
         "bil": 2,
         "kumpulan": "B",
         "reguA": "LARUT MATANG SELAMA",
         "reguB": "MUALLIM",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "LARUT MATANG SELAMA",
+        "skor": "2-0"
       },
       {
         "bil": 3,
         "kumpulan": "C",
         "reguA": "MANJUNG",
         "reguB": "HILIR PERAK",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "MANJUNG",
+        "skor": "2-0"
       },
       {
         "bil": 4,
         "kumpulan": "D",
         "reguA": "KUALA KANGSAR",
         "reguB": "HULU PERAK",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KUALA KANGSAR",
+        "skor": "2-0"
       },
       {
         "bil": 5,
         "kumpulan": "A",
         "reguA": "KERIAN",
         "reguB": "BAGAN DATUK",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "BAGAN DATUK",
+        "skor": "0-2"
       },
       {
         "bil": 6,
         "kumpulan": "B",
         "reguA": "PERAK TENGAH",
         "reguB": "LARUT MATANG SELAMA",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "LARUT MATANG SELAMA",
+        "skor": "0-2"
       },
       {
         "bil": 7,
         "kumpulan": "C",
         "reguA": "KINTA SELATAN",
         "reguB": "MANJUNG",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "MANJUNG",
+        "skor": "0-2"
       },
       {
         "bil": 8,
         "kumpulan": "D",
         "reguA": "KINTA UTARA",
         "reguB": "KUALA KANGSAR",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KINTA UTARA",
+        "skor": "2-0"
       },
       {
         "bil": 9,
         "kumpulan": "A",
         "reguA": "BATANG PADANG",
         "reguB": "KERIAN",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "BATANG PADANG",
+        "skor": "2-0"
       },
       {
         "bil": 10,
         "kumpulan": "B",
         "reguA": "MUALLIM",
         "reguB": "PERAK TENGAH",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "MUALLIM",
+        "skor": "2-0"
       },
       {
         "bil": 11,
         "kumpulan": "C",
         "reguA": "HILIR PERAK",
         "reguB": "KINTA SELATAN",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "HILIR PERAK",
+        "skor": "2-0"
       },
       {
         "bil": 12,
         "kumpulan": "D",
         "reguA": "HULU PERAK",
         "reguB": "KINTA UTARA",
-        "pemenang": "",
-        "skor": ""
+        "pemenang": "KINTA UTARA",
+        "skor": "0-2"
       }
     ]
   }
