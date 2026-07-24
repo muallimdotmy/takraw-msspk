@@ -19,15 +19,32 @@ export function GalleryGrid({ site }: { site: SiteConfig }) {
             className="group relative overflow-hidden rounded-2xl border border-card-border bg-card transition hover:border-primary"
           >
             <div
-              className={`relative flex min-h-[140px] flex-col justify-end bg-gradient-to-br p-5 ${gradients[i % gradients.length]}`}
+              className={`relative flex min-h-[160px] flex-col justify-end bg-gradient-to-br p-5 ${gradients[i % gradients.length]}`}
+              style={
+                item.image
+                  ? {
+                      backgroundImage: `linear-gradient(to top, rgba(0,0,0,0.82) 0%, rgba(0,0,0,0.35) 45%, rgba(0,0,0,0.15) 100%), url(${item.image})`,
+                      backgroundSize: "cover",
+                      backgroundPosition: "center",
+                    }
+                  : undefined
+              }
             >
-              <p className="text-[10px] font-bold uppercase tracking-wider text-accent">
+              <p
+                className={`text-[10px] font-bold uppercase tracking-wider ${item.image ? "text-amber-300" : "text-accent"}`}
+              >
                 Galeri
               </p>
-              <h3 className="mt-1 text-base font-bold text-foreground group-hover:text-primary-glow">
+              <h3
+                className={`mt-1 text-base font-bold group-hover:text-primary-glow ${item.image ? "text-white" : "text-foreground"}`}
+              >
                 {item.title}
               </h3>
-              <p className="mt-1 text-xs text-muted">{item.description}</p>
+              <p
+                className={`mt-1 text-xs ${item.image ? "text-white/80" : "text-muted"}`}
+              >
+                {item.description}
+              </p>
               <p className="mt-3 text-xs font-semibold text-primary-glow opacity-0 transition group-hover:opacity-100">
                 Buka galeri →
               </p>

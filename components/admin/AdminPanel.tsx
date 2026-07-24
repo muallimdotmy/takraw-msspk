@@ -695,6 +695,21 @@ export function AdminPanel() {
                     }}
                   />
                 </Field>
+                <Field label="Imej background (URL, optional)">
+                  <input
+                    className={inputClass}
+                    value={item.image || ""}
+                    placeholder="https://..."
+                    onChange={(e) => {
+                      const gallery = [...config.gallery];
+                      gallery[i] = {
+                        ...gallery[i],
+                        image: e.target.value.trim() || undefined,
+                      };
+                      setConfig({ ...config, gallery });
+                    }}
+                  />
+                </Field>
               </div>
             ))}
           </div>

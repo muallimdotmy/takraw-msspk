@@ -50,7 +50,10 @@ export async function generateMetadata(): Promise<Metadata> {
         images: ["/logo-msspk.png"],
       },
       icons: {
-        icon: "/logo-msspk.png",
+        icon: [
+          { url: "/favicon.ico", sizes: "any" },
+          { url: "/logo-msspk.png", type: "image/png" },
+        ],
         apple: "/logo-msspk.png",
       },
     };
@@ -58,6 +61,10 @@ export async function generateMetadata(): Promise<Metadata> {
     return {
       title: "TAKRAW MSSPk",
       description: "Kejohanan Sepak Takraw MSS Perak",
+      icons: {
+        icon: "/favicon.ico",
+        apple: "/logo-msspk.png",
+      },
     };
   }
 }

@@ -45,6 +45,8 @@ export type SiteConfig = {
     title: string;
     description: string;
     href: string;
+    /** Optional card background image URL */
+    image?: string;
   }[];
   footer: {
     credit: string;
