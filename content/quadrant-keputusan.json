@@ -1,7 +1,7 @@
 {
   "source": {
     "fileId": "1RmnqDfSs9nN7Zfjy6p6mmJXYd2obBXBU",
-    "importedAt": "2026-07-24T06:24:53.008Z",
+    "importedAt": "2026-07-24T08:43:44.167Z",
     "note": "URL sheet dikelola admin sahaja",
     "acara": "Quadrant"
   },
@@ -166,6 +166,38 @@
         "reguB": "MANJUNG",
         "pemenang": "HILIR PERAK",
         "skor": "2-0"
+      },
+      {
+        "bil": 13,
+        "kumpulan": "Suku Akhir 1",
+        "reguA": "BAGAN DATUK",
+        "reguB": "KERIAN",
+        "pemenang": "BAGAN DATUK",
+        "skor": "2-0"
+      },
+      {
+        "bil": 14,
+        "kumpulan": "Suku Akhir 2",
+        "reguA": "KINTA UTARA",
+        "reguB": "KUALA KANGSAR",
+        "pemenang": "KINTA UTARA",
+        "skor": "2-0"
+      },
+      {
+        "bil": 15,
+        "kumpulan": "Suku Akhir 3",
+        "reguA": "BATANG PADANG",
+        "reguB": "HULU PERAK",
+        "pemenang": "BATANG PADANG",
+        "skor": "2-0"
+      },
+      {
+        "bil": 16,
+        "kumpulan": "Suku Akhir 4",
+        "reguA": "HILIR PERAK",
+        "reguB": "LARUT MATANG SELAMA",
+        "pemenang": "LARUT MATANG SELAMA",
+        "skor": "0-2"
       }
     ]
   },
@@ -330,6 +362,30 @@
         "reguB": "HULU PERAK",
         "pemenang": "HULU PERAK",
         "skor": "0-2"
+      },
+      {
+        "bil": 13,
+        "kumpulan": "Suku Akhir 1",
+        "reguA": "KINTA UTARA",
+        "reguB": "BATANG PADANG",
+        "pemenang": "BATANG PADANG",
+        "skor": "0-2"
+      },
+      {
+        "bil": 14,
+        "kumpulan": "Suku Akhir 2",
+        "reguA": "HULU PERAK",
+        "reguB": "MUALLIM",
+        "pemenang": "HULU PERAK",
+        "skor": "2-0"
+      },
+      {
+        "bil": 16,
+        "kumpulan": "Suku Akhir 4",
+        "reguA": "KINTA SELATAN",
+        "reguB": "MANJUNG",
+        "pemenang": "KINTA SELATAN",
+        "skor": "2-0"
       }
     ]
   },
@@ -494,6 +550,38 @@
         "reguB": "KINTA UTARA",
         "pemenang": "KINTA UTARA",
         "skor": "0-2"
+      },
+      {
+        "bil": 13,
+        "kumpulan": "Suku Akhir 1",
+        "reguA": "BATANG PADANG",
+        "reguB": "MUALLIM",
+        "pemenang": "BATANG PADANG",
+        "skor": "2-0"
+      },
+      {
+        "bil": 14,
+        "kumpulan": "Suku Akhir 2",
+        "reguA": "KINTA UTARA",
+        "reguB": "KINTA SELATAN",
+        "pemenang": "KINTA UTARA",
+        "skor": "2-0"
+      },
+      {
+        "bil": 15,
+        "kumpulan": "Suku Akhir 3",
+        "reguA": "MANJUNG",
+        "reguB": "KUALA KANGSAR",
+        "pemenang": "KUALA KANGSAR",
+        "skor": "0-2"
+      },
+      {
+        "bil": 16,
+        "kumpulan": "Suku Akhir 4",
+        "reguA": "LARUT MATANG SELAMA",
+        "reguB": "BAGAN DATUK",
+        "pemenang": "LARUT MATANG SELAMA",
+        "skor": "2-0"
       }
     ]
   }

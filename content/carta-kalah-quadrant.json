@@ -1,6 +1,6 @@
 {
   "acara": "quadrant",
-  "generatedAt": "2026-07-24T06:24:56.501Z",
+  "generatedAt": "2026-07-24T08:43:44.284Z",
   "categories": {
     "u12": {
       "category": "u12",
@@ -14,7 +14,7 @@
           "masa": "15:00",
           "teamA": "BAGAN DATUK",
           "teamB": "KERIAN",
-          "winner": ""
+          "winner": "BAGAN DATUK"
         },
         {
           "bil": 14,
@@ -24,7 +24,7 @@
           "masa": "15:00",
           "teamA": "KINTA UTARA",
           "teamB": "KUALA KANGSAR",
-          "winner": ""
+          "winner": "KINTA UTARA"
         },
         {
           "bil": 15,
@@ -34,7 +34,7 @@
           "masa": "15:45",
           "teamA": "BATANG PADANG",
           "teamB": "HULU PERAK",
-          "winner": ""
+          "winner": "BATANG PADANG"
         },
         {
           "bil": 16,
@@ -44,7 +44,7 @@
           "masa": "15:45",
           "teamA": "HILIR PERAK",
           "teamB": "LARUT MATANG SELAMA",
-          "winner": ""
+          "winner": "LARUT MATANG SELAMA"
         },
         {
           "bil": 17,
@@ -52,8 +52,8 @@
           "label": "Separuh Akhir 1",
           "tarikh": "Jumaat, 24 Julai 2026",
           "masa": "17:00",
-          "teamA": "TBA",
-          "teamB": "TBA",
+          "teamA": "BAGAN DATUK",
+          "teamB": "KINTA UTARA",
           "winner": ""
         },
         {
@@ -62,8 +62,8 @@
           "label": "Separuh Akhir 2",
           "tarikh": "Jumaat, 24 Julai 2026",
           "masa": "17:00",
-          "teamA": "TBA",
-          "teamB": "TBA",
+          "teamA": "BATANG PADANG",
+          "teamB": "LARUT MATANG SELAMA",
           "winner": ""
         },
         {
@@ -100,7 +100,7 @@
           "masa": "15:00",
           "teamA": "KINTA UTARA",
           "teamB": "BATANG PADANG",
-          "winner": ""
+          "winner": "BATANG PADANG"
         },
         {
           "bil": 14,
@@ -110,7 +110,7 @@
           "masa": "15:00",
           "teamA": "HULU PERAK",
           "teamB": "MUALLIM",
-          "winner": ""
+          "winner": "HULU PERAK"
         },
         {
           "bil": 15,
@@ -130,7 +130,7 @@
           "masa": "15:45",
           "teamA": "KINTA SELATAN",
           "teamB": "MANJUNG",
-          "winner": ""
+          "winner": "KINTA SELATAN"
         },
         {
           "bil": 17,
@@ -138,8 +138,8 @@
           "label": "Separuh Akhir 1",
           "tarikh": "Jumaat, 24 Julai 2026",
           "masa": "17:00",
-          "teamA": "TBA",
-          "teamB": "TBA",
+          "teamA": "BATANG PADANG",
+          "teamB": "HULU PERAK",
           "winner": ""
         },
         {
@@ -186,7 +186,7 @@
           "masa": "15:00",
           "teamA": "BATANG PADANG",
           "teamB": "MUALLIM",
-          "winner": ""
+          "winner": "BATANG PADANG"
         },
         {
           "bil": 14,
@@ -196,7 +196,7 @@
           "masa": "15:00",
           "teamA": "KINTA UTARA",
           "teamB": "KINTA SELATAN",
-          "winner": ""
+          "winner": "KINTA UTARA"
         },
         {
           "bil": 15,
@@ -206,7 +206,7 @@
           "masa": "15:45",
           "teamA": "MANJUNG",
           "teamB": "KUALA KANGSAR",
-          "winner": ""
+          "winner": "KUALA KANGSAR"
         },
         {
           "bil": 16,
@@ -216,7 +216,7 @@
           "masa": "15:45",
           "teamA": "LARUT MATANG SELAMA",
           "teamB": "BAGAN DATUK",
-          "winner": ""
+          "winner": "LARUT MATANG SELAMA"
         },
         {
           "bil": 17,
@@ -224,8 +224,8 @@
           "label": "Separuh Akhir 1",
           "tarikh": "Jumaat, 24 Julai 2026",
           "masa": "17:00",
-          "teamA": "TBA",
-          "teamB": "TBA",
+          "teamA": "BATANG PADANG",
+          "teamB": "KINTA UTARA",
           "winner": ""
         },
         {
@@ -234,8 +234,8 @@
           "label": "Separuh Akhir 2",
           "tarikh": "Jumaat, 24 Julai 2026",
           "masa": "17:00",
-          "teamA": "TBA",
-          "teamB": "TBA",
+          "teamA": "KUALA KANGSAR",
+          "teamB": "LARUT MATANG SELAMA",
           "winner": ""
         },
         {

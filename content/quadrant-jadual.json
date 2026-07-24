@@ -1,7 +1,7 @@
 {
   "source": {
     "fileId": "1RmnqDfSs9nN7Zfjy6p6mmJXYd2obBXBU",
-    "importedAt": "2026-07-24T06:24:53.008Z",
+    "importedAt": "2026-07-24T08:43:44.167Z",
     "note": "URL sheet dikelola admin sahaja",
     "acara": "Quadrant"
   },
@@ -240,7 +240,7 @@
         "pusingan": "Suku Akhir 1",
         "kumpulan": "",
         "geladak": "",
-        "keputusan": ""
+        "keputusan": "2-0"
       },
       {
         "bil": 14,
@@ -253,7 +253,7 @@
         "pusingan": "Suku Akhir 2",
         "kumpulan": "",
         "geladak": "",
-        "keputusan": ""
+        "keputusan": "2-0"
       },
       {
         "bil": 15,
@@ -266,7 +266,7 @@
         "pusingan": "Suku Akhir 3",
         "kumpulan": "",
         "geladak": "",
-        "keputusan": ""
+        "keputusan": "2-0"
       },
       {
         "bil": 16,
@@ -279,16 +279,16 @@
         "pusingan": "Suku Akhir 4",
         "kumpulan": "",
         "geladak": "",
-        "keputusan": ""
+        "keputusan": "0-2"
       },
       {
         "bil": 17,
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "17:00",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "BAGAN DATUK",
         "codeB": "",
-        "reguB": "TBA",
+        "reguB": "KINTA UTARA",
         "pusingan": "Separuh Akhir 1",
         "kumpulan": "",
         "geladak": "",
@@ -299,9 +299,9 @@
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "17:00",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "BATANG PADANG",
         "codeB": "",
-        "reguB": "TBA",
+        "reguB": "LARUT MATANG SELAMA",
         "pusingan": "Separuh Akhir 2",
         "kumpulan": "",
         "geladak": "",
@@ -569,8 +569,8 @@
         "reguB": "BATANG PADANG",
         "pusingan": "Suku Akhir 1",
         "kumpulan": "",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "5",
+        "keputusan": "0-2"
       },
       {
         "bil": 14,
@@ -582,8 +582,8 @@
         "reguB": "MUALLIM",
         "pusingan": "Suku Akhir 2",
         "kumpulan": "",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "6",
+        "keputusan": "2-0"
       },
       {
         "bil": 15,
@@ -608,17 +608,17 @@
         "reguB": "MANJUNG",
         "pusingan": "Suku Akhir 4",
         "kumpulan": "",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "6",
+        "keputusan": "2-0"
       },
       {
         "bil": 17,
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "17:00",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "BATANG PADANG",
         "codeB": "",
-        "reguB": "TBA",
+        "reguB": "HULU PERAK",
         "pusingan": "Separuh Akhir 1",
         "kumpulan": "",
         "geladak": "",
@@ -899,8 +899,8 @@
         "reguB": "MUALLIM",
         "pusingan": "Suku Akhir 1",
         "kumpulan": "",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "3",
+        "keputusan": "2-0"
       },
       {
         "bil": 14,
@@ -912,8 +912,8 @@
         "reguB": "KINTA SELATAN",
         "pusingan": "Suku Akhir 2",
         "kumpulan": "",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "4",
+        "keputusan": "2-0"
       },
       {
         "bil": 15,
@@ -925,8 +925,8 @@
         "reguB": "KUALA KANGSAR",
         "pusingan": "Suku Akhir 3",
         "kumpulan": "",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "3",
+        "keputusan": "0-2"
       },
       {
         "bil": 16,
@@ -938,17 +938,17 @@
         "reguB": "BAGAN DATUK",
         "pusingan": "Suku Akhir 4",
         "kumpulan": "",
-        "geladak": "",
-        "keputusan": ""
+        "geladak": "4",
+        "keputusan": "2-0"
       },
       {
         "bil": 17,
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "17:00",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "BATANG PADANG",
         "codeB": "",
-        "reguB": "TBA",
+        "reguB": "KINTA UTARA",
         "pusingan": "Separuh Akhir 1",
         "kumpulan": "",
         "geladak": "",
@@ -959,9 +959,9 @@
         "tarikh": "Jumaat, 24 Julai 2026",
         "masa": "17:00",
         "codeA": "",
-        "reguA": "TBA",
+        "reguA": "KUALA KANGSAR",
         "codeB": "",
-        "reguB": "TBA",
+        "reguB": "LARUT MATANG SELAMA",
         "pusingan": "Separuh Akhir 2",
         "kumpulan": "",
         "geladak": "",
