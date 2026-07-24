@@ -1,6 +1,6 @@
 {
   "acara": "quadrant",
-  "generatedAt": "2026-07-24T09:31:25.595Z",
+  "generatedAt": "2026-07-24T09:55:01.254Z",
   "categories": {
     "u12": {
       "category": "u12",
@@ -72,8 +72,8 @@
           "label": "Tempat ke-3 & 4",
           "tarikh": "Jumaat, 24 Julai 2026",
           "masa": "18:00",
-          "teamA": "KINTA UTARA",
-          "teamB": "LARUT MATANG SELAMA",
+          "teamA": "LARUT MATANG SELAMA",
+          "teamB": "KINTA UTARA",
           "winner": ""
         },
         {
@@ -120,7 +120,7 @@
           "masa": "15:45",
           "teamA": "KERIAN",
           "teamB": "LARUT MATANG SELAMA",
-          "winner": ""
+          "winner": "LARUT MATANG SELAMA"
         },
         {
           "bil": 16,
@@ -140,7 +140,7 @@
           "masa": "17:00",
           "teamA": "BATANG PADANG",
           "teamB": "HULU PERAK",
-          "winner": ""
+          "winner": "BATANG PADANG"
         },
         {
           "bil": 18,
@@ -148,8 +148,8 @@
           "label": "Separuh Akhir 2",
           "tarikh": "Jumaat, 24 Julai 2026",
           "masa": "17:00",
-          "teamA": "TBA",
-          "teamB": "TBA",
+          "teamA": "LARUT MATANG SELAMA",
+          "teamB": "KINTA SELATAN",
           "winner": ""
         },
         {
@@ -226,7 +226,7 @@
           "masa": "17:00",
           "teamA": "BATANG PADANG",
           "teamB": "KINTA UTARA",
-          "winner": ""
+          "winner": "KINTA UTARA"
         },
         {
           "bil": 18,
@@ -236,7 +236,7 @@
           "masa": "17:00",
           "teamA": "KUALA KANGSAR",
           "teamB": "LARUT MATANG SELAMA",
-          "winner": ""
+          "winner": "LARUT MATANG SELAMA"
         },
         {
           "bil": 19,
@@ -244,8 +244,8 @@
           "label": "Tempat ke-3 & 4",
           "tarikh": "Jumaat, 24 Julai 2026",
           "masa": "18:00",
-          "teamA": "TBA",
-          "teamB": "TBA",
+          "teamA": "KUALA KANGSAR",
+          "teamB": "BATANG PADANG",
           "winner": ""
         },
         {
@@ -254,8 +254,8 @@
           "label": "Akhir",
           "tarikh": "Jumaat, 24 Julai 2026",
           "masa": "18:00",
-          "teamA": "TBA",
-          "teamB": "TBA",
+          "teamA": "KINTA UTARA",
+          "teamB": "LARUT MATANG SELAMA",
           "winner": ""
         }
       ]

@@ -1,7 +1,7 @@
 {
   "source": {
     "fileId": "1RmnqDfSs9nN7Zfjy6p6mmJXYd2obBXBU",
-    "importedAt": "2026-07-24T09:31:22.132Z",
+    "importedAt": "2026-07-24T09:54:56.396Z",
     "note": "URL sheet dikelola admin sahaja",
     "acara": "Quadrant"
   },
@@ -396,11 +396,27 @@
         "skor": "2-0"
       },
       {
+        "bil": 15,
+        "kumpulan": "Suku Akhir 3",
+        "reguA": "KERIAN",
+        "reguB": "LARUT MATANG SELAMA",
+        "pemenang": "LARUT MATANG SELAMA",
+        "skor": "0-2"
+      },
+      {
         "bil": 16,
         "kumpulan": "Suku Akhir 4",
         "reguA": "KINTA SELATAN",
         "reguB": "MANJUNG",
         "pemenang": "KINTA SELATAN",
+        "skor": "2-0"
+      },
+      {
+        "bil": 17,
+        "kumpulan": "Separuh Akhir 1",
+        "reguA": "BATANG PADANG",
+        "reguB": "HULU PERAK",
+        "pemenang": "BATANG PADANG",
         "skor": "2-0"
       }
     ]
@@ -598,6 +614,22 @@
         "reguB": "BAGAN DATUK",
         "pemenang": "LARUT MATANG SELAMA",
         "skor": "2-0"
+      },
+      {
+        "bil": 17,
+        "kumpulan": "Separuh Akhir 1",
+        "reguA": "BATANG PADANG",
+        "reguB": "KINTA UTARA",
+        "pemenang": "KINTA UTARA",
+        "skor": "0-2"
+      },
+      {
+        "bil": 18,
+        "kumpulan": "Separuh Akhir 2",
+        "reguA": "KUALA KANGSAR",
+        "reguB": "LARUT MATANG SELAMA",
+        "pemenang": "LARUT MATANG SELAMA",
+        "skor": "0-2"
       }
     ]
   }
